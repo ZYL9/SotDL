@@ -6,7 +6,7 @@ module.exports = {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: "Home", link: "/" },
-            { text: "Docs", link: "/介绍" },
+            { text: "Docs", link: "/C0：介绍" },
             { text: "About", link: "/about" }
         ],
 

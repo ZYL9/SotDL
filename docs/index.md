@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Getting Start
-      link: /介绍
+      link: /C0：介绍
     - theme: alt
       text: About
       link: /about
