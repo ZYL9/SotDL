@@ -4,10 +4,11 @@ module.exports = {
     description: "Shadow of the Demon lord",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
+        logo: "/logo.png",
         nav: [
             { text: "Home", link: "/" },
-            { text: "Docs", link: "/C0：介绍" },
-            { text: "About", link: "/about" }
+            { text: "Docs", link: "/1.魔王之影核心书/C0：介绍.md" },
+            { text: "About", link: "/0.关于.md" }
         ],
 
         socialLinks: [

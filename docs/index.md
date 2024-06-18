@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Getting Start
-      link: /C0：介绍
+      link: /1.魔王之影核心书/C0：介绍.md
     - theme: alt
       text: About
-      link: /about
+      link: /0.关于.md
 
 features:
   - title: 模棱两可的道德
