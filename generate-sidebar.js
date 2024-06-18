@@ -25,7 +25,8 @@ function generateStructure(dir) {
             const directoryItem = {
                 text: file,
                 link: `/${path.relative('docs', filePath).replace(/\\/g, '/')}/${file}.md`,
-                items: subItems.length > 0 ? subItems : undefined
+                items: subItems.length > 0 ? subItems : undefined,
+                collapsed: true
             };
 
             const indexFilePath = path.join(filePath, `${file}.md`);
@@ -39,7 +40,8 @@ function generateStructure(dir) {
         } else if (stats.isFile() && path.extname(file) === '.md' && path.basename(file, '.md') !== path.basename(dir) && file != "index.md" && file != "about.md") {
             const item = {
                 text: path.basename(file, '.md'),
-                link: `/${path.relative('docs', filePath).replace(/\\/g, '/')}`
+                link: `/${path.relative('docs', filePath).replace(/\\/g, '/')}`,
+                collapsed: true
             };
             result.push(item);
         }
