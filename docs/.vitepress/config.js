@@ -7,7 +7,7 @@ module.exports = {
         logo: "/logo.png",
         nav: [
             { text: "Home", link: "/" },
-            { text: "Docs", link: "/1.魔王之影核心书/C0：介绍.md" },
+            { text: "Docs", link: "/1.魔王之影核心书/C00：介绍.md" },
             { text: "About", link: "/0.关于.md" }
         ],
 

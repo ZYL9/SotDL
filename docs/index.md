@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Getting Start
-      link: /1.魔王之影核心书/C0：介绍.md
+      link: /1.魔王之影核心书/C00：介绍.md
     - theme: alt
       text: About
       link: /0.关于.md

@@ -9,6 +9,11 @@ module.exports = [
     "link": "/1.魔王之影核心书/1.魔王之影核心书.md",
     "items": [
       {
+        "text": "C00：介绍",
+        "link": "/1.魔王之影核心书/C00：介绍.md",
+        "collapsed": true
+      },
+      {
         "text": "C01：角色创建",
         "link": "/1.魔王之影核心书/C01：角色创建/C01：角色创建.md",
         "items": [
@@ -999,11 +1004,6 @@ module.exports = [
             "collapsed": true
           }
         ],
-        "collapsed": true
-      },
-      {
-        "text": "C0：介绍",
-        "link": "/1.魔王之影核心书/C0：介绍.md",
         "collapsed": true
       },
       {
