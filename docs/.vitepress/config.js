@@ -22,6 +22,9 @@ module.exports = {
         outline: {
             level: [1, 3],
         },
+        search: {
+            provider: 'local'
+        },
         sidebar
     }
 };
