@@ -12,7 +12,7 @@ module.exports = {
         ],
 
         socialLinks: [
-            { icon: "github", link: "https://github.com/vuejs/vitepress" },
+            { icon: "github", link: "https://github.com/ZYL9/SotDL" },
         ],
         footer: {
             message: "《魔王之影》为©2015 Schwalb Entertainment, LLC版权所有",
@@ -24,6 +24,10 @@ module.exports = {
         },
         search: {
             provider: 'local'
+        },
+        editLink: {
+            pattern: 'https://github.com/ZYL9/SotDL/edit/main/docs/:path',
+            text: 'Edit this page on GitHub'
         },
         sidebar
     }

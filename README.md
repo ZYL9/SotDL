@@ -1,3 +1,15 @@
 # SotDL
 
-{"portMap": "40031:80"}
+deploy
+```sh
+# generate sidebar file
+pnpm run prebuild
+# vitepress build
+pnpm run build
+```
+
+support docker
+need to change npm source
+```sh
+docker run build .
+```

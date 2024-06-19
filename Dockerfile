@@ -11,7 +11,7 @@ COPY package*.json ./
 #公网测试用阿里的npm源
 #RUN npm install -g pnpm --registry=https://registry.npmmirror.com
 #RUN pnpm install --registry=https://registry.npmmirror.com
-#腾讯云虚机上用内网腾讯npm源
+#腾讯云上用内网腾讯npm源
 RUN npm install -g pnpm --registry=http://mirrors.tencentyun.com/npm/
 RUN pnpm install --registry=http://mirrors.tencentyun.com/npm/
 
