@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 import { withPwa } from "@vite-pwa/vitepress";
-const sidebar = require("./sidebar");
+import sidebar from "./sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default withPwa(
@@ -38,7 +38,7 @@ export default withPwa(
       includeAssets: ["favicon.ico"],
       registerType: "autoUpdate",
       workbox: {
-        globPatterns: ["**/*.{js,css,html,ico,jpg,png,svg}"],
+        globPatterns: ["**/*.{css,js,html,jpg,svg,png,ico,txt,woff2}"],
       },
       manifest: {
         name: "魔王之影",
