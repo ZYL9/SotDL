@@ -42,7 +42,7 @@ export default withPwa(
       },
       manifest: {
         name: "魔王之影",
-        short_name: "MyApp",
+        short_name: "魔王之影",
         description: "Shadow of the Demon lord",
         theme_color: "#ffffff",
         icons: [
