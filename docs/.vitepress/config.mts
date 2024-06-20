@@ -6,6 +6,7 @@ import sidebar from "./sidebar";
 export default withPwa(
   defineConfig({
     title: "魔王之影",
+    head: [["link", { rel: "icon", href: "favicon.ico" }]],
     description: "Shadow of the Demon lord",
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
