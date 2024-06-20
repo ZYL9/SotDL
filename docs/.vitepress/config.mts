@@ -37,9 +37,9 @@ export default withPwa(
     pwa: {
       includeAssets: ["favicon.ico"],
       manifest: {
-        name: "My Awesome App",
+        name: "魔王之影",
         short_name: "MyApp",
-        description: "My Awesome App description",
+        description: "Shadow of the Demon lord",
         theme_color: "#ffffff",
         icons: [
           {
