@@ -37,7 +37,3 @@ water 或至尊胶superior glue。
 
 速度增强剂 Speed Booster
 ：受增强剂影响的生物获得4点速度加值，持续1分钟，当你达到5级后，改为获得6点速度加值。在回合内，其可以进行一次带有1点劣势的力量检定掷骰。若成功，则该回合其增加一个可用的动作。若失败，则其因拉伤受到2d6点伤害。
-
-<img
-src="file:///C:\Users\13888\AppData\Local\Temp\ksohtml1736\wps1.jpg"
-width="348" height="414" />
