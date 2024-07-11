@@ -1,0 +1,16 @@
+# 古茂密林，荒郊林野Ancient Forests, Sylvan Woods 
+
+直至最近，树精都仅栖息于隐秘的林地；让树精在由亲族的尸骸建造而成的城镇和都市中穿行简直不可想象。然而，动荡的境况迫使着树精冒险离开故土，与各种不同的种族交错杂居。这时，一些树精就可能与乡村建立起和平的关系，或指引旅人穿越被虚空黑暗所污染的诅咒之地。\
+
+尽管越来越多的树精开始现身，但大多数树精仍坚守在树林、丛林和密林间，以履行自己与生俱来的使命。树精可能独居在只有三到七棵树木的小树丛中，抑或是生活在由上百树精组成的小型森林里。它们会在领土的边界留下标记，用以威慑任何踏足的闯入者。这些标记包括堆叠的石块、镶嵌在枯木上的人类头骨，以及各式陷阱、陷坑和其他自然陷阱。
+
+## 神圣林地Sacred Groves
+
+[每个树精社区都有着一块林中的空地，树精们认为那是属于世界之母的神圣清圃。这些圣地即是它们灾难时的聚集之所，也是树精们齐聚一堂跳舞、歌唱颂赞世界之母、举行仪式、或简单相互凝望的地方。当树精们集聚于此时，围绕圣地的树木会开始摇摆，将木材的咔嚓声融入保护者们奏响的曲乐之中。]{style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-fareast-font-family: 宋体; mso-spacerun: 'yes'"}
+
+[
+]{style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-fareast-font-family: 宋体; mso-spacerun: 'yes'"}
+
+## 树木雕塑Tree Sculpture
+
+[塑木师]{style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-fareast-font-family: 宋体; mso-spacerun: 'yes'"}[Wood-shapers]{style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-fareast-font-family: 宋体; mso-spacerun: 'yes'"}[能将活生生的植物塑造成不同的艺术，而毋须损害或影响它们的本质。这项技能需要多年的修习，只有最大的树精社区中才会有这样的专家，它们以奇妙的雕塑美化它们的森林，令树皮上出现人的面孔，化出拱门，甚至为客人提供住所。]{style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman'; mso-font-kerning: 1.0000pt; mso-fareast-font-family: 宋体; mso-spacerun: 'yes'"}
