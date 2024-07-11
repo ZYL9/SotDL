@@ -1,4 +1,4 @@
-# 妖精生物 Creatures of faerie {#妖精生物\\tcreatures-of-faerie}
+# 妖精生物 Creatures of faerie
 
 妖精生物在外形上表现出了庞大的多样性，有些看起来很美丽，有些则很可怕。本节描述了几个你可能会在妖精王国或附近发现的生物例子。
 

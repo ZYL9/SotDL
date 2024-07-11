@@ -1,4 +1,4 @@
-# 虚假生命False Lives {#虚假生命}
+# 虚假生命False Lives
 
 狂龙Kulo翻译
 

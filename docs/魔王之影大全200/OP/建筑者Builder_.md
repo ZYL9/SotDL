@@ -15,17 +15,42 @@
 魔法构筑  Magic Construction
 你可以使用一个动作并消耗一个咒法法术施法次数以在周围的环境中创造出结构。你所消耗法术的环阶决定了你可使用的材料数量，具体如下表所示。这些材料表现为一定数量的方块，都是若干边长为1码的立方体。
 
-  ----------- ---------------
-  ** 环阶**   ** 方块数量**
-   0           1
-   1           8
-   2           16
-   3           32
-   4           64
-   5+          128
-  ----------- ---------------
+<table style="HEIGHT: 169px; WIDTH: 175px; 
+BORDER-COLLAPSE: collapse" data-bordercolor="#000000"
+data-cellspacing="0" data-cellpadding="2" width="175" data-border="0">
+<tbody>
+<tr class="odd">
+<td><p><strong> 环阶</strong></p></td>
+<td><p><strong> 方块数量</strong></p></td>
+</tr>
+<tr class="even">
+<td><p> 0</p></td>
+<td><p> 1</p></td>
+</tr>
+<tr class="odd">
+<td><p> 1</p></td>
+<td><p> 8</p></td>
+</tr>
+<tr class="even">
+<td><p> 2</p></td>
+<td><p> 16</p></td>
+</tr>
+<tr class="odd">
+<td><p> 3</p></td>
+<td><p> 32</p></td>
+</tr>
+<tr class="even">
+<td><p> 4</p></td>
+<td><p> 64</p></td>
+</tr>
+<tr class="odd">
+<td><p> 5+</p></td>
+<td><p> 128</p></td>
+</tr>
+</tbody>
+</table>
 
-\
+  
 每个方块都是防御10，生命值20的物件。你可以在中程范围内以任意方式布置这些方块，但它们必须放置在开放空间中。你可以将它们堆叠起来，排成一列，或者分散开来。你可以选择让方块透明或不透明。由此天赋创造的方块可以存在你威能值x10分钟。
 
 ### 10级建筑者

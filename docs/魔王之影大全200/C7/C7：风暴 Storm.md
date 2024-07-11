@@ -68,7 +68,7 @@
 
  
 
-### 先知之火 **SAINT ASTRID'S FLAME**
+### 先知之火 **SAINT ASTRID’S FLAME**
 
 风暴传承 实用法术 1环
 

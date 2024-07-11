@@ -4,11 +4,32 @@
 
 机关人躯体Clockwork Bodies
 
-  躯体              价格    稀有度
-  ----------------- ------- -----------
-  大型（体型 2）    500gc   珍奇（E）
-  中型（体型 1）    100gc   珍奇（E）
-  小型（体型1/2）   50gc    珍奇（E）
+<table>
+<thead>
+<tr class="header">
+<th>躯体</th>
+<th>价格</th>
+<th>稀有度</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>大型（体型 2）</td>
+<td>500gc</td>
+<td>珍奇（E）</td>
+</tr>
+<tr class="even">
+<td>中型（体型 1）</td>
+<td>100gc</td>
+<td>珍奇（E）</td>
+</tr>
+<tr class="odd">
+<td>小型（体型1/2）</td>
+<td>50gc</td>
+<td>珍奇（E）</td>
+</tr>
+</tbody>
+</table>
 
 当躯体准备好后，下一步只需要施放两个法术，如下所述：
 

@@ -8,22 +8,87 @@
 
 ## 机关人升级组件
 
-  升级组件                            价格   稀有度
-  ----------------------------------- ------ --------
-  烧蚀护甲Ablative Carapace           2gc    稀有R
-  加速器Accelerator                   3gc    珍奇E
-  钢刃义肢Blade Appendage             2gc    珍奇E
-  黑暗视镜Darksight Lenses            5gc    珍奇E
-  灭火器Fire Suppressor               15ss   稀有R
-  增力器Force Amplifier               10gc   珍奇E
-  陀螺稳定器Gyroscopic Stabilizer     10gc   珍奇E
-  隐蔽隔层Hidden Compartment          5ss    稀有R
-  知识碎片Knowledge Shard             5gc    珍奇E
-  灯光组件Lightning Lamp Attachment   1gc    稀有R
-  枪弹义肢Projectile Appendage        10gc   珍奇E
-  阴影视镜Shadowsight Lenses          1gc    稀有R
-  消声器Sound Dampener                1gc    稀有R
-  高级感应模块Superior Sense Module   5gc    珍奇E
+<table>
+<thead>
+<tr class="header">
+<th>升级组件</th>
+<th>价格</th>
+<th>稀有度</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>烧蚀护甲Ablative Carapace</td>
+<td>2gc</td>
+<td>稀有R</td>
+</tr>
+<tr class="even">
+<td>加速器Accelerator</td>
+<td>3gc</td>
+<td>珍奇E</td>
+</tr>
+<tr class="odd">
+<td>钢刃义肢Blade Appendage</td>
+<td>2gc</td>
+<td>珍奇E</td>
+</tr>
+<tr class="even">
+<td>黑暗视镜Darksight Lenses</td>
+<td>5gc</td>
+<td>珍奇E</td>
+</tr>
+<tr class="odd">
+<td>灭火器Fire Suppressor</td>
+<td>15ss</td>
+<td>稀有R</td>
+</tr>
+<tr class="even">
+<td>增力器Force Amplifier</td>
+<td>10gc</td>
+<td>珍奇E</td>
+</tr>
+<tr class="odd">
+<td>陀螺稳定器Gyroscopic Stabilizer</td>
+<td>10gc</td>
+<td>珍奇E</td>
+</tr>
+<tr class="even">
+<td>隐蔽隔层Hidden Compartment</td>
+<td>5ss</td>
+<td>稀有R</td>
+</tr>
+<tr class="odd">
+<td>知识碎片Knowledge Shard</td>
+<td>5gc</td>
+<td>珍奇E</td>
+</tr>
+<tr class="even">
+<td>灯光组件Lightning Lamp Attachment</td>
+<td>1gc</td>
+<td>稀有R</td>
+</tr>
+<tr class="odd">
+<td>枪弹义肢Projectile Appendage</td>
+<td>10gc</td>
+<td>珍奇E</td>
+</tr>
+<tr class="even">
+<td>阴影视镜Shadowsight Lenses</td>
+<td>1gc</td>
+<td>稀有R</td>
+</tr>
+<tr class="odd">
+<td>消声器Sound Dampener</td>
+<td>1gc</td>
+<td>稀有R</td>
+</tr>
+<tr class="even">
+<td>高级感应模块Superior Sense Module</td>
+<td>5gc</td>
+<td>珍奇E</td>
+</tr>
+</tbody>
+</table>
 
  
 

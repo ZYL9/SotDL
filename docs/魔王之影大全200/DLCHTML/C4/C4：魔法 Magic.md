@@ -6,13 +6,30 @@
 
 ### 属性传承对照表
 
-  智力                意志
-  ------------------- -------------------
-  炼金 Alchemy        死亡\* Death
-  恶魔\* Demonology   精魄 Spiritualism
-  通灵+ Telepathy     念动+ Telekinesis
+<table>
+<thead>
+<tr class="header">
+<th style="TEXT-ALIGN: center">智力</th>
+<th style="TEXT-ALIGN: center">意志</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">炼金 Alchemy</td>
+<td style="TEXT-ALIGN: center">死亡* Death</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center">恶魔* Demonology</td>
+<td style="TEXT-ALIGN: center">精魄 Spiritualism</td>
+</tr>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">通灵+ Telepathy</td>
+<td style="TEXT-ALIGN: center">念动+ Telekinesis</td>
+</tr>
+</tbody>
+</table>
 
-\*代表该传承是黑魔法，详见魔王之影核心书中"探索黑魔法传承"，了解黑魔法的特殊规则
+\*代表该传承是黑魔法，详见魔王之影核心书中“探索黑魔法传承”，了解黑魔法的特殊规则
 
 +代表该传承从属于心灵 Psychic 传承
 

@@ -36,11 +36,16 @@ export default withPwa(
       sidebar,
     },
     metaChunk: true,
+    markdown: {
+      config: (md) => {
+        md.configure("commonmark");
+      },
+    },
     pwa: {
       includeAssets: ["favicon.ico"],
       registerType: "autoUpdate",
       workbox: {
-        globPatterns: ["**/*.{css,js,ico,woff2}"],
+        globPatterns: ["**/*.{css,js,html,jpg,svg,png,webp,ico,txt,woff2}"],
       },
       manifest: {
         name: "魔王之影",

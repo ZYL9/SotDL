@@ -8,14 +8,43 @@
 
 #### 情景劣势标
 
-  目标\...                                效应
-  ----------------------------------- -------------
-  半遮蔽                                 1点劣势
-  四分之三遮蔽                            2劣势
-  全遮蔽                                自动失败
-  轻度模糊                               1点劣势
-  重度模糊                                2劣势
-  完全模糊                               3劣势\*
-  天气，地形:在恶劣天气或被覆盖地形    1或更多劣势
+<table>
+<thead>
+<tr class="header">
+<th>目标...</th>
+<th style="text-align: center;">效应</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>半遮蔽</td>
+<td style="text-align: center;">1点劣势</td>
+</tr>
+<tr class="even">
+<td>四分之三遮蔽</td>
+<td style="text-align: center;">2劣势</td>
+</tr>
+<tr class="odd">
+<td>全遮蔽</td>
+<td style="text-align: center;">自动失败</td>
+</tr>
+<tr class="even">
+<td>轻度模糊</td>
+<td style="text-align: center;">1点劣势</td>
+</tr>
+<tr class="odd">
+<td>重度模糊</td>
+<td style="text-align: center;">2劣势</td>
+</tr>
+<tr class="even">
+<td>完全模糊</td>
+<td style="text-align: center;">3劣势*</td>
+</tr>
+<tr class="odd">
+<td>天气，地形:在恶劣天气或被覆盖地形</td>
+<td style="text-align: center;">1或更多劣势</td>
+</tr>
+</tbody>
+</table>
 
 \*你必须猜测目标位置（详见**隐匿**）

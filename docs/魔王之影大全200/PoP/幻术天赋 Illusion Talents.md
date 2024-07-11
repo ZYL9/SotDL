@@ -1,9 +1,9 @@
 # 幻术天赋 Illusion Talents
 
 幻术专注（戏法） Illusion Focus
-学习一个幻术传承的0环法术，并获得天赋：幻术师花招 Illusionist's Trick。
+学习一个幻术传承的0环法术，并获得天赋：幻术师花招 Illusionist’s Trick。
 
-幻术师花招 Illusionist's Trick
+幻术师花招 Illusionist’s Trick
 你可以用一个动作并消耗一次0环幻术法术施法次数来使短程范围内一个体型1/2或更小的物件在1分钟内对所有生物而言被视为隐匿。当一个生物触摸该物件后效应结束。
 
 次级幻术（魔力感知） Minor Illusion

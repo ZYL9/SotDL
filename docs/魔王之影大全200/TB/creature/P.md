@@ -48,4 +48,4 @@ Vulnerability：当皮克精接触铁时，其会陷入脆弱Impaired状态。
 
 威能：1
 
-妖精：缩小物件shrink object（2），鬼火术will-o'-wisp（1）
+妖精：缩小物件shrink object（2），鬼火术will-o’-wisp（1）

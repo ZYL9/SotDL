@@ -15,15 +15,15 @@ Auroral Ocean，气灵 Sylphs 回到他们于天空中的宫殿。而侏儒 Gnom
 
  
 
-\~Credits\~ WRITING AND DESIGN: rOBERT j. sCHWALB editing: Jay Spight
+~Credits~ WRITING AND DESIGN: rOBERT j. sCHWALB editing: Jay Spight
 Proofreading: Kara Hamilton ART DIRECTION: rOBERT j. sCHWALB Graphic
 Design and LAYOUT: kara hamilton ILLUSTRATIONs: Kevin Adkins, iVAN
 DIXON, Jack Kaiser Children of the Restless Earth is (c)2016 Schwalb
 Entertainment, LLC. All rights reserved. Shadow of the Demon Lord,
 Poisoned Pages, Children of the Restless Earth Schwalb Entertainment,
 and their associated logos are trademarks of Schwalb Entertainment, LLC.
-Schwalb Entertainment, LLC PO Box #12548, Murfreesboro, TN 37129
-[info@schwalbentertainment.com](mailto:info@schwalbentertainment.com){.url
-target="_blank"}
-[www.schwalbentertainment.com](http://www.schwalbentertainment.com){.url
-target="_blank"}
+Schwalb Entertainment, LLC PO Box \#12548, Murfreesboro, TN 37129
+<a href="mailto:info@schwalbentertainment.com" class="url"
+target="_blank">info@schwalbentertainment.com</a>
+<a href="http://www.schwalbentertainment.com" class="url"
+target="_blank">www.schwalbentertainment.com</a>

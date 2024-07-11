@@ -4,20 +4,77 @@
 
 ## 毒药和相关设备 Posions and Paraphernalia
 
-  道具                        价格   稀有度
-  --------------------------- ------ --------
-  昏迷毒药 knockout poison    5ss    R
-  致命毒药 lethal poison      10gc   E
-  发狂毒药 maddening poison   1gc    R
-  主要毒药 major poison       2gc    R
-  温和毒药 mild posion        5ss    R
-  针刺戒指 needle ring        1gc    R
-  毒药戒指 poison ring        1gc    R
-  慢性毒药 slow Poison        3gc    E
-  针管 syringe                1ss    R
-  真实毒药 truth posion       5ss    R
-  染毒护鞘 venomous sheath    1ss    R
-  疲软毒药 weakening poison   1gc    R
+<table>
+<thead>
+<tr class="header">
+<th>道具</th>
+<th>价格</th>
+<th>稀有度</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>昏迷毒药 knockout poison</td>
+<td>5ss</td>
+<td>R</td>
+</tr>
+<tr class="even">
+<td>致命毒药 lethal poison</td>
+<td>10gc</td>
+<td>E</td>
+</tr>
+<tr class="odd">
+<td>发狂毒药 maddening poison</td>
+<td>1gc</td>
+<td>R</td>
+</tr>
+<tr class="even">
+<td>主要毒药 major poison</td>
+<td>2gc</td>
+<td>R</td>
+</tr>
+<tr class="odd">
+<td>温和毒药 mild posion</td>
+<td>5ss</td>
+<td>R</td>
+</tr>
+<tr class="even">
+<td>针刺戒指 needle ring</td>
+<td>1gc</td>
+<td>R</td>
+</tr>
+<tr class="odd">
+<td>毒药戒指 poison ring</td>
+<td>1gc</td>
+<td>R</td>
+</tr>
+<tr class="even">
+<td>慢性毒药 slow Poison</td>
+<td>3gc</td>
+<td>E</td>
+</tr>
+<tr class="odd">
+<td>针管 syringe</td>
+<td>1ss</td>
+<td>R</td>
+</tr>
+<tr class="even">
+<td>真实毒药 truth posion</td>
+<td>5ss</td>
+<td>R</td>
+</tr>
+<tr class="odd">
+<td>染毒护鞘 venomous sheath</td>
+<td>1ss</td>
+<td>R</td>
+</tr>
+<tr class="even">
+<td>疲软毒药 weakening poison</td>
+<td>1gc</td>
+<td>R</td>
+</tr>
+</tbody>
+</table>
 
  
 

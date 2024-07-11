@@ -2,7 +2,7 @@
 
 几乎所有的审判官都从属于新神教派，致力于揭露宗教队伍中的腐化、与恶魔交易者、邪恶之人和那些狂人。他们工作的关键就是去找寻真相。他们不仅知道谁向他们撒谎，而且还知道诸多拷问技巧，迫使那些牺牲者揭露他们藏匿的秘密。
 
-### 审判庭[Inquisition]{style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: Arial; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; mso-font-kerning: 1.0000pt; mso-spacerun: 'yes'"}
+### 审判庭Inquisition
 
 新神教派成立了审判庭以作为抵抗恶魔入侵和教众腐化的堡垒。随着魔王之影逐渐笼罩整个世界，审判庭开始抓捕那些魔王的奴仆，根除恶魔教派，并寻找那些散播毁灭种子的危险遗迹。审判庭在当局权威和教会的批准下运作，所以审判官在确定罪行和通过审判方面有很大的自由度。
 审判官在执行公务时，会穿着绣有宗教信仰标志的黑袍，并在戴上骷髅面具，以隐藏自己的身份
@@ -31,5 +31,5 @@ Torturer：你可以用一个动作对目标触及范围内失防或受物理拘
 
 特征：生命值+3
 
-审判裁决Inquisitor's Judgment
+审判裁决Inquisitor’s Judgment
 ：你对你以**监察**选定的监察目标进行的武器攻击额外造成1d6点伤害

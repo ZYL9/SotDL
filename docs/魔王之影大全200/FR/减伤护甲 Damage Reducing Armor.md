@@ -27,14 +27,54 @@ Protection**：本规则中，护甲将使其穿戴者免受一些伤害。在�
 
 ## 护甲Armor
 
-   类型        防御        保护   价格
-  ------ ---------------- ------ ------
-   轻甲   力量大于等于10            
-   皮甲        敏捷         1     5ss
-   中甲   力量大于等于12            
-   环甲       敏捷-1       1d3    1gc
-   重甲   力量大于等于14            
-   板甲       敏捷-2       1d6    10gc
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">类型</th>
+<th style="text-align: center;">防御</th>
+<th style="text-align: center;">保护</th>
+<th style="text-align: center;">价格</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">轻甲</td>
+<td style="text-align: center;">力量大于等于10</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">皮甲</td>
+<td style="text-align: center;">敏捷</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">5ss</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">中甲</td>
+<td style="text-align: center;">力量大于等于12</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">环甲</td>
+<td style="text-align: center;">敏捷-1</td>
+<td style="text-align: center;">1d3</td>
+<td style="text-align: center;">1gc</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">重甲</td>
+<td style="text-align: center;">力量大于等于14</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">板甲</td>
+<td style="text-align: center;">敏捷-2</td>
+<td style="text-align: center;">1d6</td>
+<td style="text-align: center;">10gc</td>
+</tr>
+</tbody>
+</table>
 
 每当佩戴者受到武器攻击时，伤害掷骰每投一个伤害骰，佩戴者就可以投掷一个保护骰来减少收到的伤害。
 例：你穿着环甲（中甲），对方对你造成2d6点伤害，你可以投掷2d3，并减免这部分伤害。

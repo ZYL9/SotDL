@@ -127,7 +127,7 @@ substance*识别出来的药水，并专注1小时。在此期间你会用你的
 
  
 
-### 酿造炼金毒剂 BREW ALCHEMIST\'S POISON
+### 酿造炼金毒剂 BREW ALCHEMIST'S POISON
 
 炼金 实用 3环
 
@@ -181,7 +181,7 @@ substance*识别出来的药水，并专注1小时。在此期间你会用你的
 
  
 
-### 哲人石 PHILOSOPHER\'S STONE
+### 哲人石 PHILOSOPHER'S STONE
 
 炼金 实用 5环
 

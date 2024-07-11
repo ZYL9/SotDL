@@ -64,7 +64,7 @@
 
 专业：你使用以下表格决定你的起始专业
 
-## 费伦特质Ferren Traits {#费伦特质ferren-traits-1}
+## 费伦特质Ferren Traits
 
 你获得以下特质。
 
@@ -83,7 +83,7 @@
 
 生命值 你的生命值增加4点
 
-### 费伦特质Ferren Traits {#费伦特质ferren-traits-2}
+### 费伦特质Ferren Traits
 
 你从以下特质中选择一项。
 

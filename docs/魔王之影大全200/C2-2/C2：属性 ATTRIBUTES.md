@@ -17,12 +17,32 @@ Modifier**：一个属性的调整值等于属性值-10。当你进行相关属�
 
 ### 属性和特征关系表
 
-  属性             特征
-  ---------------- -----------------
-  力量 Strength    生命值 Health
-  敏捷 Agility     防御 Defense
-  智力 Intellect   感知 Perception
-  意志 Will        疯狂 Insanity
+<table>
+<thead>
+<tr class="header">
+<th style="TEXT-ALIGN: center">属性</th>
+<th style="TEXT-ALIGN: center">特征</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">力量 Strength</td>
+<td style="TEXT-ALIGN: center">生命值 Health</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center">敏捷 Agility</td>
+<td style="TEXT-ALIGN: center">防御 Defense</td>
+</tr>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">智力 Intellect</td>
+<td style="TEXT-ALIGN: center">感知 Perception</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center">意志 Will</td>
+<td style="TEXT-ALIGN: center">疯狂 Insanity</td>
+</tr>
+</tbody>
+</table>
 
  
 

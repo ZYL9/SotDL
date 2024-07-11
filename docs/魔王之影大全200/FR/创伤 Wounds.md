@@ -14,16 +14,48 @@
 
 ## 伤害转化 Damage Conversion
 
-   伤害总值   创伤数量
-  ---------- ----------
-    1或1d3      1\*
-     1d6         1
-     2d6         2
-     3d6         3
-     4d6         4
-     5d6         5
-     +1d6        +1
-    +调整      +\*\*
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">伤害总值</th>
+<th style="text-align: center;">创伤数量</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1或1d3</td>
+<td style="text-align: center;">1*</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">1d6</td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">2d6</td>
+<td style="text-align: center;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">3d6</td>
+<td style="text-align: center;">3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">4d6</td>
+<td style="text-align: center;">4</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">5d6</td>
+<td style="text-align: center;">5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">+1d6</td>
+<td style="text-align: center;">+1</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">+调整</td>
+<td style="text-align: center;">+**</td>
+</tr>
+</tbody>
+</table>
 
 \*攻击造成1d3或更少伤害时，进行的攻击掷骰会获得1点劣势，或目标进行抵抗此攻击的检定掷骰获得1点优势
 

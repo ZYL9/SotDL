@@ -1,4 +1,4 @@
-# 真名效应True Name Effects {#真名效果true-name-effects}
+# 真名效应True Name Effects
 
 每当你说出真名并消耗一次施法次数后时，你选择以下效应的其中之一。
 

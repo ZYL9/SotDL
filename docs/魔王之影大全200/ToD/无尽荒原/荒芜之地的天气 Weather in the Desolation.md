@@ -4,14 +4,47 @@
 
 ### 天气
 
-  3d6     天气       时间倍数
-  ------- ---------- ----------------
-  3       沙尘暴     ×4（查看文本）
-  4-5     微热       ×1
-  6-12    正常情况   ×1
-  13-15   极热       ×1
-  16-17   强风       ×1.5
-  18      沙尘暴     ×4
+<table>
+<thead>
+<tr class="header">
+<th>3d6</th>
+<th>天气</th>
+<th>时间倍数</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>3</td>
+<td>沙尘暴</td>
+<td>×4（查看文本）</td>
+</tr>
+<tr class="even">
+<td>4-5</td>
+<td>微热</td>
+<td>×1</td>
+</tr>
+<tr class="odd">
+<td>6-12</td>
+<td>正常情况</td>
+<td>×1</td>
+</tr>
+<tr class="even">
+<td>13-15</td>
+<td>极热</td>
+<td>×1</td>
+</tr>
+<tr class="odd">
+<td>16-17</td>
+<td>强风</td>
+<td>×1.5</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>沙尘暴</td>
+<td>×4</td>
+</tr>
+</tbody>
+</table>
 
 ### 极热 Brutal Heat
 

@@ -6,16 +6,57 @@
 
 ## 炼金毒药 Alchemical Poisons
 
-  道具                          价格   稀有度
-  ----------------------------- ------ --------
-  洗脑毒药 Brainwash Poison     5gc    E
-  末日火毒药 Doomfire Poison    20gc   E
-  无害化毒药 Harmless Poison    20gc   E
-  湮心毒药 Mindwrack Poison     20gc   E
-  缓慢恶化毒药 Slowrot Poison   10gc   E
-  石肤毒药 Stoneflesh Poison    5gc    E
-  思潮毒药 Thoughtrend Poison   5gc    E
-  肿胀毒药 Tumescent Poison     5gc    E
+<table>
+<thead>
+<tr class="header">
+<th>道具</th>
+<th>价格</th>
+<th>稀有度</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>洗脑毒药 Brainwash Poison</td>
+<td>5gc</td>
+<td>E</td>
+</tr>
+<tr class="even">
+<td>末日火毒药 Doomfire Poison</td>
+<td>20gc</td>
+<td>E</td>
+</tr>
+<tr class="odd">
+<td>无害化毒药 Harmless Poison</td>
+<td>20gc</td>
+<td>E</td>
+</tr>
+<tr class="even">
+<td>湮心毒药 Mindwrack Poison</td>
+<td>20gc</td>
+<td>E</td>
+</tr>
+<tr class="odd">
+<td>缓慢恶化毒药 Slowrot Poison</td>
+<td>10gc</td>
+<td>E</td>
+</tr>
+<tr class="even">
+<td>石肤毒药 Stoneflesh Poison</td>
+<td>5gc</td>
+<td>E</td>
+</tr>
+<tr class="odd">
+<td>思潮毒药 Thoughtrend Poison</td>
+<td>5gc</td>
+<td>E</td>
+</tr>
+<tr class="even">
+<td>肿胀毒药 Tumescent Poison</td>
+<td>5gc</td>
+<td>E</td>
+</tr>
+</tbody>
+</table>
 
  
 

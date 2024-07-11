@@ -4,146 +4,532 @@
 
 ### 专业类型
 
-  d6   专业
-  ---- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1    学术 Academic：你是个学者。你可以读写一种你懂的如何说的语言。投掷d20并查看"学术专业表"来决定你是何种方向上的学者。你可以回忆起和你学术领域相关的知识
-  2    平民 Common：你从事贸易行业。投掷d20并查看"平民专业表"来决定你的买卖。你可以回忆起和你买卖相关的信息，如果你的生意设计制造业，你知道如何用原材料生产并贸易该商品
-  3    犯罪 Criminal：你参与了违法或不正当活动。投掷d20并查看"犯罪专业表"来决定你的专业
-  4    军事 Martial：你加入了军队，执法机关或本地民兵。投掷d20并查看"军事专业表"来决定你的专业
-  5    宗教 Religious：你属于某个宗教体系。投掷d20并查看"宗教专业表"来决定你的专业
-  6    荒野 Wilderness：你不属于城市之中。投掷d20并查看"荒野专业表"来决定你的专业
+<table>
+<thead>
+<tr class="header">
+<th>d6</th>
+<th>专业</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>学术
+Academic：你是个学者。你可以读写一种你懂的如何说的语言。投掷d20并查看“学术专业表”来决定你是何种方向上的学者。你可以回忆起和你学术领域相关的知识</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>平民
+Common：你从事贸易行业。投掷d20并查看“平民专业表”来决定你的买卖。你可以回忆起和你买卖相关的信息，如果你的生意设计制造业，你知道如何用原材料生产并贸易该商品</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>犯罪
+Criminal：你参与了违法或不正当活动。投掷d20并查看“犯罪专业表”来决定你的专业</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>军事
+Martial：你加入了军队，执法机关或本地民兵。投掷d20并查看“军事专业表”来决定你的专业</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>宗教
+Religious：你属于某个宗教体系。投掷d20并查看“宗教专业表”来决定你的专业</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>荒野
+Wilderness：你不属于城市之中。投掷d20并查看“荒野专业表”来决定你的专业</td>
+</tr>
+</tbody>
+</table>
 
 #### 学术专业表
 
-  d20   学术领域
-  ----- -----------
-  1     建筑
-  2     星象
-  3     工程
-  4     礼仪&风俗
-  5     民俗
-  6     地理
-  7     纹章
-  8     历史
-  9     法律
-  10    文学
-  11    魔法
-  12    医学
-  13    航海
-  14    神秘学
-  15    哲学
-  16    政治
-  17    自然
-  18    宗教
-  19    科学
-  20    战争
+<table>
+<thead>
+<tr class="header">
+<th>d20</th>
+<th>学术领域</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>建筑</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>星象</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>工程</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>礼仪&amp;风俗</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>民俗</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>地理</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>纹章</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>历史</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>法律</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>文学</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>魔法</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>医学</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>航海</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>神秘学</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>哲学</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>政治</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>自然</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>宗教</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>科学</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>战争</td>
+</tr>
+</tbody>
+</table>
 
 #### 平民专业表
 
-  d20   专业
-  ----- --------------------------------------------------------------------------------------------------------------------------------------
-  1     驯兽师
-  2     药剂师或治疗师
-  3     工匠。选择一种交易产品。例如：面包师，铁匠，装订商，酿酒商，木匠，蜡烛匠，补鞋匠，染工，玻璃匠，珠宝商，皮革匠，泥瓦工，印刷商，裁缝
-  4     艺术家。选择一种媒介。例如：画师，诗人，雕塑家，作家。如果你选择诗人或作家。你可以读写一门你已知的语言
-  5     船夫&摆渡人
-  6     屠夫
-  7     厨师
-  8     牲畜贩子或牧人
-  9     演员。选择一种类型。例如：演员、运动员、喜剧演员、交际花、舞蹈家、演说家、木偶师、歌手和说书人。
-  10    农民
-  11    渔夫或捕鲸手
-  12    马夫
-  13    劳工。选择一种工作。例如：扫烟囱工、掘墓人、搬运工、装卸工和扫街工
-  14    商人。选择一种商品。例如：武器、谷物、牲畜、奴隶、香料和纺织品。
-  15    矿工
-  16    音乐家。选择一种乐器。例如：打击乐器，弦乐和管乐器。
-  17    水手
-  18    仆人或服务员
-  19    老板
-  20    车队驾驶员
+<table>
+<thead>
+<tr class="header">
+<th>d20</th>
+<th>专业</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>驯兽师</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>药剂师或治疗师</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>工匠。选择一种交易产品。例如：面包师，铁匠，装订商，酿酒商，木匠，蜡烛匠，补鞋匠，染工，玻璃匠，珠宝商，皮革匠，泥瓦工，印刷商，裁缝</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>艺术家。选择一种媒介。例如：画师，诗人，雕塑家，作家。如果你选择诗人或作家。你可以读写一门你已知的语言</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>船夫&amp;摆渡人</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>屠夫</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>厨师</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>牲畜贩子或牧人</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>演员。选择一种类型。例如：演员、运动员、喜剧演员、交际花、舞蹈家、演说家、木偶师、歌手和说书人。</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>农民</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>渔夫或捕鲸手</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>马夫</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>劳工。选择一种工作。例如：扫烟囱工、掘墓人、搬运工、装卸工和扫街工</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>商人。选择一种商品。例如：武器、谷物、牲畜、奴隶、香料和纺织品。</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>矿工</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>音乐家。选择一种乐器。例如：打击乐器，弦乐和管乐器。</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>水手</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>仆人或服务员</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>老板</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>车队驾驶员</td>
+</tr>
+</tbody>
+</table>
 
 #### 犯罪专业表
 
-  d20   专业
-  ----- ----------------------------------------------------------------
-  1     煽动者（政治宣传口号的鼓吹者）
-  2     乞丐
-  3     窃贼
-  4     喝酒闹事者或浪荡公子（carouser or rake）
-  5     江湖骗子或欺诈者
-  6     邪教徒
-  7     赃物买卖者
-  8     伪造工匠
-  9     赌徒
-  10    盗尸客
-  11    告密者
-  12    杀手
-  13    扒手
-  14    海盗
-  15    娼妓（男妓）
-  16    革命者或恐怖分子
-  17    破坏者（旨在通过颠覆，阻碍，或破坏来削弱政体，势力或组织的人）
-  18    间谍
-  19    流氓
-  20    流浪儿
+<table>
+<thead>
+<tr class="header">
+<th>d20</th>
+<th>专业</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>煽动者（政治宣传口号的鼓吹者）</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>乞丐</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>窃贼</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>喝酒闹事者或浪荡公子（carouser or rake）</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>江湖骗子或欺诈者</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>邪教徒</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>赃物买卖者</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>伪造工匠</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>赌徒</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>盗尸客</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>告密者</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>杀手</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>扒手</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>海盗</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>娼妓（男妓）</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>革命者或恐怖分子</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>破坏者（旨在通过颠覆，阻碍，或破坏来削弱政体，势力或组织的人）</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>间谍</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>流氓</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>流浪儿</td>
+</tr>
+</tbody>
+</table>
 
 #### 军事专业表
 
-  d20     专业
-  ------- ----------
-  1       治安官
-  2       警探
-  3-4     守卫
-  5       狱卒
-  6       军官
-  7       水兵
-  8       雇佣军
-  9-10    民兵
-  11-12   巡逻兵
-  13-15   征召农民
-  16      奴隶
-  17-18   士兵
-  19      侍从
-  20      拷问官
+<table>
+<thead>
+<tr class="header">
+<th>d20</th>
+<th>专业</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>治安官</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>警探</td>
+</tr>
+<tr class="odd">
+<td>3-4</td>
+<td>守卫</td>
+</tr>
+<tr class="even">
+<td>5</td>
+<td>狱卒</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>军官</td>
+</tr>
+<tr class="even">
+<td>7</td>
+<td>水兵</td>
+</tr>
+<tr class="odd">
+<td>8</td>
+<td>雇佣军</td>
+</tr>
+<tr class="even">
+<td>9-10</td>
+<td>民兵</td>
+</tr>
+<tr class="odd">
+<td>11-12</td>
+<td>巡逻兵</td>
+</tr>
+<tr class="even">
+<td>13-15</td>
+<td>征召农民</td>
+</tr>
+<tr class="odd">
+<td>16</td>
+<td>奴隶</td>
+</tr>
+<tr class="even">
+<td>17-18</td>
+<td>士兵</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>侍从</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>拷问官</td>
+</tr>
+</tbody>
+</table>
 
 #### 荒野专业表
 
-  d20     专业
-  ------- ------------------------------------------------------
-  1       匪徒，劫匪，公路劫匪
-  2       野蛮人
-  3       放逐者
-  4       收集者（狩猎，农作物，果实）
-  5-6     向导
-  7       隐士
-  8-9     猎人
-  10      游牧民，流浪者
-  11      拓荒者
-  12      偷猎者，偷牛/马贼
-  13      勘矿者
-  14      逃犯
-  15-16   难民
-  17      洞窟探勘者
-  18      追踪客（利用出色跟踪技能寻找食物和水，寻找失踪人员）
-  19      陷阱猎手
-  20      樵夫
+<table>
+<thead>
+<tr class="header">
+<th>d20</th>
+<th>专业</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>匪徒，劫匪，公路劫匪</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>野蛮人</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>放逐者</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>收集者（狩猎，农作物，果实）</td>
+</tr>
+<tr class="odd">
+<td>5-6</td>
+<td>向导</td>
+</tr>
+<tr class="even">
+<td>7</td>
+<td>隐士</td>
+</tr>
+<tr class="odd">
+<td>8-9</td>
+<td>猎人</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>游牧民，流浪者</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>拓荒者</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>偷猎者，偷牛/马贼</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>勘矿者</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>逃犯</td>
+</tr>
+<tr class="odd">
+<td>15-16</td>
+<td>难民</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>洞窟探勘者</td>
+</tr>
+<tr class="odd">
+<td>18</td>
+<td>追踪客（利用出色跟踪技能寻找食物和水，寻找失踪人员）</td>
+</tr>
+<tr class="even">
+<td>19</td>
+<td>陷阱猎手</td>
+</tr>
+<tr class="odd">
+<td>20</td>
+<td>樵夫</td>
+</tr>
+</tbody>
+</table>
 
 #### 宗教专业表
 
-  d20     专业
-  ------- ------------------------------------------------------------------------------------------------------
-  1-2     信徒。你是个坚定的信徒，相信并遵从你信仰的指导。你可以读写一门你已知语言
-  3-4     传道者。你四处旅行，向那些愿意倾听或接受施舍者传播信仰。你可以读写一门已知语言
-  5       狂信徒。你甘于贫困并希望以此更贴近你的神。你可能会鞭打自己，拒绝食物和水分，或找到其他方式来折磨自己
-  6       异教徒。你持有的宗教信仰被你信仰的领袖认为是危险的和异端的。
-  7-8     旧信信众。你已经加入了旧信信仰
-  9-10    牧师。你是你本地的宗教领袖。你知道如何读写一门你已知的语言
-  11-12   新神侍僧。你学习并成为了一位新神的教士。你知道如何读写一门你已知的语言
-  13      审判官侍从。你侍奉一位审判官或猎巫人
-  14-16   朝圣者。你去那些被你的宗教成员视为神圣的地方旅行。
-  17-18   公共传教士/末日布道者。你在街角向路人传教，恳求人们在末日临近时寻求救赎。
-  19-20   寺院养子。你在寺庙中长大。更可能是一个被神职人员抚养长大的孤儿
+<table>
+<thead>
+<tr class="header">
+<th>d20</th>
+<th>专业</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1-2</td>
+<td>信徒。你是个坚定的信徒，相信并遵从你信仰的指导。你可以读写一门你已知语言</td>
+</tr>
+<tr class="even">
+<td>3-4</td>
+<td>传道者。你四处旅行，向那些愿意倾听或接受施舍者传播信仰。你可以读写一门已知语言</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>狂信徒。你甘于贫困并希望以此更贴近你的神。你可能会鞭打自己，拒绝食物和水分，或找到其他方式来折磨自己</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>异教徒。你持有的宗教信仰被你信仰的领袖认为是危险的和异端的。</td>
+</tr>
+<tr class="odd">
+<td>7-8</td>
+<td>旧信信众。你已经加入了旧信信仰</td>
+</tr>
+<tr class="even">
+<td>9-10</td>
+<td>牧师。你是你本地的宗教领袖。你知道如何读写一门你已知的语言</td>
+</tr>
+<tr class="odd">
+<td>11-12</td>
+<td>新神侍僧。你学习并成为了一位新神的教士。你知道如何读写一门你已知的语言</td>
+</tr>
+<tr class="even">
+<td>13</td>
+<td>审判官侍从。你侍奉一位审判官或猎巫人</td>
+</tr>
+<tr class="odd">
+<td>14-16</td>
+<td>朝圣者。你去那些被你的宗教成员视为神圣的地方旅行。</td>
+</tr>
+<tr class="even">
+<td>17-18</td>
+<td>公共传教士/末日布道者。你在街角向路人传教，恳求人们在末日临近时寻求救赎。</td>
+</tr>
+<tr class="odd">
+<td>19-20</td>
+<td>寺院养子。你在寺庙中长大。更可能是一个被神职人员抚养长大的孤儿</td>
+</tr>
+</tbody>
+</table>
 
 ### 起始专业 STARTING PROFESSIONS
 

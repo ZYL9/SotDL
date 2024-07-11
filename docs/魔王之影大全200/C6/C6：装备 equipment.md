@@ -46,14 +46,40 @@
 
 **生活开销**
 
-  **生活方式**   **开销**
-  -------------- -------------
-  一贫如洗       \-
-  穷困           2 cp
-  糊口           1 ss
-  舒适           2 ss
-  富裕           1 gc
-  阔绰           2 gc 或更多
+<table>
+<thead>
+<tr class="header">
+<th><strong>生活方式</strong></th>
+<th style="TEXT-ALIGN: center"><strong>开销</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>一贫如洗</td>
+<td style="TEXT-ALIGN: center">-</td>
+</tr>
+<tr class="even">
+<td>穷困</td>
+<td style="TEXT-ALIGN: center">2 cp</td>
+</tr>
+<tr class="odd">
+<td>糊口</td>
+<td style="TEXT-ALIGN: center">1 ss</td>
+</tr>
+<tr class="even">
+<td>舒适</td>
+<td style="TEXT-ALIGN: center">2 ss</td>
+</tr>
+<tr class="odd">
+<td>富裕</td>
+<td style="TEXT-ALIGN: center">1 gc</td>
+</tr>
+<tr class="even">
+<td>阔绰</td>
+<td style="TEXT-ALIGN: center">2 gc 或更多</td>
+</tr>
+</tbody>
+</table>
 
 以下条目描述了基本生活方式的最典型范例。GM可酌情添加其他增益与减益。
 

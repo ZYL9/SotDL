@@ -1,9 +1,9 @@
 # 秩序天赋 Order Talents
 
 秩序专注（戏法） Order Focus
-学习一个秩序传承的0环法术，并获得天赋：秩序裁决 Order's Decree。
+学习一个秩序传承的0环法术，并获得天赋：秩序裁决 Order’s Decree。
 
-秩序裁决 Order's Decree
+秩序裁决 Order’s Decree
 当你将投掷d6时，你可以用一个反应并消耗一次0环秩序法术施法次数来自己选择骰子的结果。若你如此做，则你必须在1分钟后才能再次使用此天赋。
 
 唤起秩序（魔力感知） Evoke Order

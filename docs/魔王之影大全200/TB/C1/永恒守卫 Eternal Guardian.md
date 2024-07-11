@@ -24,5 +24,5 @@ Counterstrike：当一个生物攻击你的护卫对象且你在短程范围内�
 Reslove：当你在你护卫对象短程范围内时，你免疫强控compelled
 和恐慌frightened 状态。
 
-守护者之忿 Guardian\'s Wrath：当你使用即行反击Sudden
+守护者之忿 Guardian's Wrath：当你使用即行反击Sudden
 Counterstrike天赋时，你进行的攻击掷骰获得1点优势。同时，你的攻击造成1d6点额外伤害；如果你的威能值为3或者更高，则改为造成2d6点额外伤害。

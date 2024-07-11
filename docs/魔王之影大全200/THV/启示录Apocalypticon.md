@@ -18,11 +18,33 @@ Spires之下，绑在黑暗女士的腰带上；也有人坚称它被窃法师�
 
 **书中恶魔表**
 
-  ------ ---------------
-   2d3    恶魔 
-   2       1只微型恶魔
-   3       1只小型恶魔
-   4       1只中型恶魔
-   5       1只大型恶魔
-   6       1只巨型恶魔
-  ------ ---------------
+<table style="HEIGHT: 145px; WIDTH: 155px; BORDER-COLLAPSE: collapse"
+data-bordercolor="#000000" data-cellspacing="0" data-cellpadding="2"
+width="155" data-border="0">
+<tbody>
+<tr class="odd">
+<td> 2d3</td>
+<td> 恶魔 </td>
+</tr>
+<tr class="even">
+<td> 2</td>
+<td>  1只微型恶魔</td>
+</tr>
+<tr class="odd">
+<td> 3</td>
+<td>  1只小型恶魔</td>
+</tr>
+<tr class="even">
+<td> 4</td>
+<td>  1只中型恶魔</td>
+</tr>
+<tr class="odd">
+<td> 5</td>
+<td>  1只大型恶魔</td>
+</tr>
+<tr class="even">
+<td> 6</td>
+<td>  1只巨型恶魔</td>
+</tr>
+</tbody>
+</table>

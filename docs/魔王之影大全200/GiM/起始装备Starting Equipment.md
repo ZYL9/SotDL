@@ -4,66 +4,222 @@
 
 **起始生活水平\***\*STARTING LIFESTYLE\*\*
 
-  3d6        生活水平
-  ---------- ----------
-  3或更小    一贫如洗
-  4-5        贫困
-  6-12       糊口
-  13-15      舒适
-  16-17      富裕
-  18或更多   阔绰
+<table>
+<thead>
+<tr class="header">
+<th>3d6</th>
+<th>生活水平</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>3或更小</td>
+<td>一贫如洗</td>
+</tr>
+<tr class="even">
+<td>4-5</td>
+<td>贫困</td>
+</tr>
+<tr class="odd">
+<td>6-12</td>
+<td>糊口</td>
+</tr>
+<tr class="even">
+<td>13-15</td>
+<td>舒适</td>
+</tr>
+<tr class="odd">
+<td>16-17</td>
+<td>富裕</td>
+</tr>
+<tr class="even">
+<td>18或更多</td>
+<td>阔绰</td>
+</tr>
+</tbody>
+</table>
 
 **衣物\***\*CLOTHING\*\*
 
-  生活水平   衣物
-  ---------- ----------------------
-  一贫如洗   \-
-  贫困       破旧的斗篷
-  糊口       普通的斗篷
-  舒适       精致的斗篷
-  富裕       一套带斗篷的漂亮衣服
-  阔绰       一套贵族衣服和斗篷
+<table>
+<thead>
+<tr class="header">
+<th>生活水平</th>
+<th>衣物</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>一贫如洗</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>贫困</td>
+<td>破旧的斗篷</td>
+</tr>
+<tr class="odd">
+<td>糊口</td>
+<td>普通的斗篷</td>
+</tr>
+<tr class="even">
+<td>舒适</td>
+<td>精致的斗篷</td>
+</tr>
+<tr class="odd">
+<td>富裕</td>
+<td>一套带斗篷的漂亮衣服</td>
+</tr>
+<tr class="even">
+<td>阔绰</td>
+<td>一套贵族衣服和斗篷</td>
+</tr>
+</tbody>
+</table>
 
 **武器 WEAPONS**
 
-  生活水平   武器
-  ---------- -----------------------------------------------------------
-  一贫如洗   一根短棒/一根投石索和20发石弹
-  贫困       一把长杖/一根短棒/一根投石索和20发石弹
-  糊口       一把匕首和一把长杖、一根短棒、一根投石索+20发石弹其中之一
-  舒适       一把匕首和一把长杖、一根短棒、一根投石索+20发石弹其中两个
-  富裕       一把剑或类似的武器
-  阔绰       一把剑或类似的武器在加上一个其他自选武器
+<table>
+<thead>
+<tr class="header">
+<th>生活水平</th>
+<th>武器</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>一贫如洗</td>
+<td>一根短棒/一根投石索和20发石弹</td>
+</tr>
+<tr class="even">
+<td>贫困</td>
+<td>一把长杖/一根短棒/一根投石索和20发石弹</td>
+</tr>
+<tr class="odd">
+<td>糊口</td>
+<td>一把匕首和一把长杖、一根短棒、一根投石索+20发石弹其中之一</td>
+</tr>
+<tr class="even">
+<td>舒适</td>
+<td>一把匕首和一把长杖、一根短棒、一根投石索+20发石弹其中两个</td>
+</tr>
+<tr class="odd">
+<td>富裕</td>
+<td>一把剑或类似的武器</td>
+</tr>
+<tr class="even">
+<td>阔绰</td>
+<td>一把剑或类似的武器在加上一个其他自选武器</td>
+</tr>
+</tbody>
+</table>
 
 **个人装备 PERSONAL GEAR**
 
-  生活水平   武器
-  ---------- ------------------------------------------
-  一贫如洗   \-
-  贫困       一个麻袋、火绒盒和蜡烛
-  糊口       一个背包、一卷绳子、一个火绒盒和两个火把
-  舒适       一个背包、一卷绳子、一个火绒盒和四个火把
-  富裕       一个背包、一卷绳子、一盏提灯和两瓶灯油
-  阔绰       \-
+<table>
+<thead>
+<tr class="header">
+<th>生活水平</th>
+<th>武器</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>一贫如洗</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>贫困</td>
+<td>一个麻袋、火绒盒和蜡烛</td>
+</tr>
+<tr class="odd">
+<td>糊口</td>
+<td>一个背包、一卷绳子、一个火绒盒和两个火把</td>
+</tr>
+<tr class="even">
+<td>舒适</td>
+<td>一个背包、一卷绳子、一个火绒盒和四个火把</td>
+</tr>
+<tr class="odd">
+<td>富裕</td>
+<td>一个背包、一卷绳子、一盏提灯和两瓶灯油</td>
+</tr>
+<tr class="even">
+<td>阔绰</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
 
 **特殊装备** **SPECIAL GEAR**
 
-  生活水平   武器
-  ---------- -----------------------------------------------------------------------------------------------------------------------------
-  一贫如洗   \-
-  贫困       \-
-  糊口       \-
-  舒适       一瓶治疗药水外加以下内容之一：一个有0环法术符咒、一个小盾、一套治疗套装、一个工匠工具或书写工具
-  富裕       一瓶治疗药水外加以下内容之一：一个有0环法术符咒、一个小盾、一套治疗套装、一个工匠工具或书写工具你还拥有一个仆人（视作平民）
-  阔绰       一瓶治疗药水，一个私人仆人（视作平民），一个保镖（视作雇佣兵），以及三匹带着嚼子、缰绳和马鞍的马
+<table>
+<thead>
+<tr class="header">
+<th>生活水平</th>
+<th>武器</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>一贫如洗</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>贫困</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>糊口</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>舒适</td>
+<td>一瓶治疗药水外加以下内容之一：一个有0环法术符咒、一个小盾、一套治疗套装、一个工匠工具或书写工具</td>
+</tr>
+<tr class="odd">
+<td>富裕</td>
+<td>一瓶治疗药水外加以下内容之一：一个有0环法术符咒、一个小盾、一套治疗套装、一个工匠工具或书写工具你还拥有一个仆人（视作平民）</td>
+</tr>
+<tr class="even">
+<td>阔绰</td>
+<td>一瓶治疗药水，一个私人仆人（视作平民），一个保镖（视作雇佣兵），以及三匹带着嚼子、缰绳和马鞍的马</td>
+</tr>
+</tbody>
+</table>
 
 **财富** **WEALTH**
 
-  生活水平   财富
-  ---------- ---------
-  一贫如洗   \-
-  贫困       1d6碎子
-  糊口       2d6碎子
-  舒适       1d6cp
-  富裕       1d6ss
-  阔绰       2d6ss
+<table>
+<thead>
+<tr class="header">
+<th>生活水平</th>
+<th>财富</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>一贫如洗</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>贫困</td>
+<td>1d6碎子</td>
+</tr>
+<tr class="odd">
+<td>糊口</td>
+<td>2d6碎子</td>
+</tr>
+<tr class="even">
+<td>舒适</td>
+<td>1d6cp</td>
+</tr>
+<tr class="odd">
+<td>富裕</td>
+<td>1d6ss</td>
+</tr>
+<tr class="even">
+<td>阔绰</td>
+<td>2d6ss</td>
+</tr>
+</tbody>
+</table>

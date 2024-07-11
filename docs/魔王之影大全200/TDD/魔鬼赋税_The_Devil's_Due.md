@@ -1,4 +1,4 @@
-# 魔鬼赋税 The Devil\'s Due
+# 魔鬼赋税 The Devil's Due
 
 大葱蘸酱翻译，UWM校对
 

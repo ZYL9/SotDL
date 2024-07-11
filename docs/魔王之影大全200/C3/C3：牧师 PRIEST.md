@@ -8,23 +8,69 @@
 
 ### 牧师训练表
 
-  d6   训练
-  ---- ----------------------------------------------------------------
-  1    你被召唤，成为神明在凡世的代言人
-  2    你的信仰由一位德鲁伊或巫师所启发
-  3    你学习了神圣的书稿与神圣的仪式，并被任命为一个宗教机构的牧师。
-  4    你的宗教信仰让你从所追随的神明处获得了力量作为回报
-  5    在经历了一场奇梦或与荒野之中的怪奇接触后，你和你的神缔结了约定
-  6    一个超自然的存在进入了你的身体并且借由你施展奇迹
+<table>
+<thead>
+<tr class="header">
+<th>d6</th>
+<th>训练</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>你被召唤，成为神明在凡世的代言人</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>你的信仰由一位德鲁伊或巫师所启发</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>你学习了神圣的书稿与神圣的仪式，并被任命为一个宗教机构的牧师。</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>你的宗教信仰让你从所追随的神明处获得了力量作为回报</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>在经历了一场奇梦或与荒野之中的怪奇接触后，你和你的神缔结了约定</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>一个超自然的存在进入了你的身体并且借由你施展奇迹</td>
+</tr>
+</tbody>
+</table>
 
 ### 宗教传承对照表
 
-  宗教           对应传承
-  -------------- ------------------
-  新神教派       星光，生命，神圣
-  矮人先祖崇拜   战斗，大地，生命
-  旧信           生命，自然，原初
-  巫术           诅咒，惑控，生命
+<table>
+<thead>
+<tr class="header">
+<th style="TEXT-ALIGN: center">宗教</th>
+<th style="TEXT-ALIGN: center">对应传承</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">新神教派</td>
+<td style="TEXT-ALIGN: center">星光，生命，神圣</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center">矮人先祖崇拜</td>
+<td style="TEXT-ALIGN: center">战斗，大地，生命</td>
+</tr>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">旧信</td>
+<td style="TEXT-ALIGN: center">生命，自然，原初</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center">巫术</td>
+<td style="TEXT-ALIGN: center">诅咒，惑控，生命</td>
+</tr>
+</tbody>
+</table>
 
 ![](https://sdlpic.oss-cn-beijing.aliyuncs.com/pic/priest.jpg)
 

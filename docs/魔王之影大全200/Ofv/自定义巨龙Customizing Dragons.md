@@ -8,7 +8,7 @@ one true God。
 
 下面是一些有关下方基础巨龙属性块的自定义选项的例子。
 
-## 巨龙Dragon 强度500 {#龙dragon-强度500}
+## 巨龙Dragon 强度500
 
 体型2或3 恐怖frightening 怪物
 

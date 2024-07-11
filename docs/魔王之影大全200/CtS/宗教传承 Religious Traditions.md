@@ -8,28 +8,96 @@ Gods，奥辛纳斯 Oceanus，魔鬼之主 the Devil
 
 ## 宗教传承 Religious Traditions
 
-  宗教                          相关传承
-  ----------------------------- ------------------------------------------
-  新神教派 Cult of New God      星光、生命、神圣
-  先祖英灵 Honored Dead         战斗、大地/符文、生命
-  旧信 Old Faith                生命、自然、原初
-  死亡之父 Father Death         死亡、防护、暗影
-  长角之王 Horned King          原初、精魄、变形
-  月之少女 Maiden in the Moon   奥术、星光、时间
-  寒冬老人 Old Man Winter       战斗、风暴、塑水
-  欢乐之神 Revel                惑控、妖精、幻术
-  盛夏女王 Queen of Summer      惑控、妖精、烈火
-  预言之神 The Seer             诅咒、预言、通灵
-  世界之母 World Mother         大地、生命、自然
-  黑暗诸神 The Dark Gods        战斗、毁灭、符文
-  巫术 Witchcraft               炼金、诅咒、惑控、妖精、生命、自然、防护
-  **次级威能 Minor Powers**      
-  黑暗女士 The Dark Lady        死亡、死灵、暗影
-  独眼皮特 One-Eyed Pete        大气、风暴、塑水
-  男爵与夫人 Lords and Ladies   惑控、妖精、幻术
-  魔鬼之主 The Devil            惑控、烈火、暗影
-  奥辛纳斯 Oceanus              毁灭、风暴、塑水
-  菘蓝精魄 Woad Spirits         自然、原初、精魄
+<table>
+<thead>
+<tr class="header">
+<th>宗教</th>
+<th>相关传承</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>新神教派 Cult of New God</td>
+<td>星光、生命、神圣</td>
+</tr>
+<tr class="even">
+<td>先祖英灵 Honored Dead</td>
+<td>战斗、大地/符文、生命</td>
+</tr>
+<tr class="odd">
+<td>旧信 Old Faith</td>
+<td>生命、自然、原初</td>
+</tr>
+<tr class="even">
+<td>死亡之父 Father Death</td>
+<td>死亡、防护、暗影</td>
+</tr>
+<tr class="odd">
+<td>长角之王 Horned King</td>
+<td>原初、精魄、变形</td>
+</tr>
+<tr class="even">
+<td>月之少女 Maiden in the Moon</td>
+<td>奥术、星光、时间</td>
+</tr>
+<tr class="odd">
+<td>寒冬老人 Old Man Winter</td>
+<td>战斗、风暴、塑水</td>
+</tr>
+<tr class="even">
+<td>欢乐之神 Revel</td>
+<td>惑控、妖精、幻术</td>
+</tr>
+<tr class="odd">
+<td>盛夏女王 Queen of Summer</td>
+<td>惑控、妖精、烈火</td>
+</tr>
+<tr class="even">
+<td>预言之神 The Seer</td>
+<td>诅咒、预言、通灵</td>
+</tr>
+<tr class="odd">
+<td>世界之母 World Mother</td>
+<td>大地、生命、自然</td>
+</tr>
+<tr class="even">
+<td>黑暗诸神 The Dark Gods</td>
+<td>战斗、毁灭、符文</td>
+</tr>
+<tr class="odd">
+<td>巫术 Witchcraft</td>
+<td>炼金、诅咒、惑控、妖精、生命、自然、防护</td>
+</tr>
+<tr class="even">
+<td><strong>次级威能 Minor Powers</strong></td>
+<td> </td>
+</tr>
+<tr class="odd">
+<td>黑暗女士 The Dark Lady</td>
+<td>死亡、死灵、暗影</td>
+</tr>
+<tr class="even">
+<td>独眼皮特 One-Eyed Pete</td>
+<td>大气、风暴、塑水</td>
+</tr>
+<tr class="odd">
+<td>男爵与夫人 Lords and Ladies</td>
+<td>惑控、妖精、幻术</td>
+</tr>
+<tr class="even">
+<td>魔鬼之主 The Devil</td>
+<td>惑控、烈火、暗影</td>
+</tr>
+<tr class="odd">
+<td>奥辛纳斯 Oceanus</td>
+<td>毁灭、风暴、塑水</td>
+</tr>
+<tr class="even">
+<td>菘蓝精魄 Woad Spirits</td>
+<td>自然、原初、精魄</td>
+</tr>
+</tbody>
+</table>
 
 ## 异端信仰 Heretical Beliefs
 

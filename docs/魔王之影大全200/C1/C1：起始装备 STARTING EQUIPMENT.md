@@ -6,14 +6,40 @@
 
 ### 财富水平表
 
-  3d6     生活水平
-  ------- --------------------
-  3-4     一贫如洗 Destitute
-  5-8     贫困 Poor
-  9-13    糊口 Getting By
-  14-16   舒适 Comfortable
-  17      富裕 Wealthy
-  18      阔绰 Rich
+<table>
+<thead>
+<tr class="header">
+<th>3d6</th>
+<th>生活水平</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>3-4</td>
+<td>一贫如洗 Destitute</td>
+</tr>
+<tr class="even">
+<td>5-8</td>
+<td>贫困 Poor</td>
+</tr>
+<tr class="odd">
+<td>9-13</td>
+<td>糊口 Getting By</td>
+</tr>
+<tr class="even">
+<td>14-16</td>
+<td>舒适 Comfortable</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>富裕 Wealthy</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>阔绰 Rich</td>
+</tr>
+</tbody>
+</table>
 
 #### 一贫如洗 Destitute
 
@@ -41,22 +67,22 @@ torches，和一个装了1d6cp的小包
 ，一件斗篷 cloak ，一周的补给 ration，一个水袋 waterskin ，一捆绳索
 rope，一个火绒盒 tinderbox，2根火把 torches，一剂**治疗药水** healing
 potion，一个装了2d6cp的小包。你还有一面小盾 small
-shield，一个由GM选择的0环法术法术卷轴 scroll 或一套治疗套装 healer\'s
+shield，一个由GM选择的0环法术法术卷轴 scroll 或一套治疗套装 healer's
 kit或一件工匠工具 tool kit或一件书写工具 writing kit
 
 #### 富裕 Wealthy
 
-你有一把匕首 dagger ，一套朝臣服装 courtier's clothing，一件斗篷
+你有一把匕首 dagger ，一套朝臣服装 courtier’s clothing，一件斗篷
 cloak，一个背囊 backpack，一周的补给 rationgs，一个水袋 waterskin
 ，一捆绳索 rope，一个火绒盒 tinderbox，一盏提灯 lantern，两瓶灯油 flasks
 of oil，一剂**治疗药水** healing
 potion，一个装了1d6ss的小包。你还有一面盾 shield
-，一个由GM选择的0环法术法术卷轴或一套治疗套装 healer\'s
-kit或一件工匠工具 tool kit或一件书写工具 writing kit 。
+，一个由GM选择的0环法术法术卷轴或一套治疗套装 healer's kit或一件工匠工具
+tool kit或一件书写工具 writing kit 。
 
 #### 阔绰 Rich
 
-你有一把匕首 dagger，贵族服装 noble\'s clothing，一件斗篷
+你有一把匕首 dagger，贵族服装 noble's clothing，一件斗篷
 cloak，一周的补给 rations，一个水袋 waterskin，一剂**治疗药水** healing
 potion，一个装了2d6ss的小包。你还有一个私人佣人 personal
 servant，一个守卫 guard，三匹带马鞍的马 horses

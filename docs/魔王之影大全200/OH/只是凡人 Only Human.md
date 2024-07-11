@@ -14,7 +14,7 @@ Drold译制
 
  
 
-**\~**Credits**\~**
+**~**Credits**~**
 
 WRITING AND DE
 
@@ -48,10 +48,10 @@ are trademarks of Schwalb Entertainment, LLC.
 
 SCHWALB ENTERTAINMENT, LLC
 
-PO Box #12548, Murfreesboro, TN 37129
+PO Box \#12548, Murfreesboro, TN 37129
 
-[info@schwalbentertainment.com](mailto:info@schwalbentertainment.com){.url
-target="_blank"}
+<a href="mailto:info@schwalbentertainment.com" class="url"
+target="_blank">info@schwalbentertainment.com</a>
 
-[www.schwalbentertainment.com](http://www.schwalbentertainment.com){.url
-target="_blank"}
+<a href="http://www.schwalbentertainment.com" class="url"
+target="_blank">www.schwalbentertainment.com</a>

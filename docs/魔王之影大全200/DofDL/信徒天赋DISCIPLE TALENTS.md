@@ -35,14 +35,40 @@
 
 被该法术召唤来的生物会一直留存在这个世界，直到被杀死，死亡时它们会溶解成恶臭的烟雾。
 
-  d6   召唤生物
-  ---- --------------------------
-  1    无
-  2    1d3条虚空幼虫Void Larva
-  3    1d6条虚空幼虫Void Larva
-  4    1头小型恶魔Small Demon
-  5    1d3头小型恶魔Small Demon
-  6    1头中型恶魔Medium demon
+<table>
+<thead>
+<tr class="header">
+<th>d6</th>
+<th>召唤生物</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>无</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>1d3条虚空幼虫Void Larva</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>1d6条虚空幼虫Void Larva</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>1头小型恶魔Small Demon</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>1d3头小型恶魔Small Demon</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>1头中型恶魔Medium demon</td>
+</tr>
+</tbody>
+</table>
 
 ### 9级 大师魔王信徒
 

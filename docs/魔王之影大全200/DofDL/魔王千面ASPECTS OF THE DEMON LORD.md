@@ -4,14 +4,40 @@
 
 **魔王千面**
 
-  d6   面貌 
-  ---- ----------
-  1    璀璨王子
-  2    永恒之影
-  3    唯一真神
-  4    颅骨之王
-  5    怪物之母
-  6    无名者
+<table>
+<thead>
+<tr class="header">
+<th>d6</th>
+<th>面貌 </th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>璀璨王子</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>永恒之影</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>唯一真神</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>颅骨之王</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>怪物之母</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>无名者</td>
+</tr>
+</tbody>
+</table>
 
 面貌条目描述了最盛行的信仰和邪教信徒的常见行为。也包含与面貌相关的传承。当你从你的道途中获得腐化时，掷d6，并查看你所信奉的面貌下的表格，看看它是如何显现的。如果你获得了一个你已经拥有的结果，重新掷骰。
 

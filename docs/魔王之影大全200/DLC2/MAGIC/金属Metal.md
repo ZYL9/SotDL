@@ -114,7 +114,7 @@
 
  
 
-## 钢铁牢笼Cage of Iron {#铁之牢笼cage-of-iron}
+## 钢铁牢笼Cage of Iron
 
 金属传承 攻击 3环
 

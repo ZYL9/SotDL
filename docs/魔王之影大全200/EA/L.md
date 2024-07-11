@@ -34,27 +34,95 @@
 
 ### 劣魔外观
 
-  d20   外观
-  ----- ------
-  1     撕裂
-  2     剥皮
-  3     刺穿
-  4     分割
-  5     烧焦
-  6     残废
-  7     开膛
-  8     压碎
-  9     溶解
-  10    腐烂
-  11    肢解
-  12    拉伸
-  13    扭曲
-  14    钉子
-  15    强奸
-  16    斩首
-  17    嚼碎
-  18    感染
-  19    肿胀
-  20    融合
+<table>
+<thead>
+<tr class="header">
+<th>d20</th>
+<th>外观</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>撕裂</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>剥皮</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>刺穿</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>分割</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>烧焦</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>残废</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>开膛</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>压碎</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>溶解</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>腐烂</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>肢解</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>拉伸</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>扭曲</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>钉子</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>强奸</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>斩首</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>嚼碎</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>感染</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>肿胀</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>融合</td>
+</tr>
+</tbody>
+</table>
 
  

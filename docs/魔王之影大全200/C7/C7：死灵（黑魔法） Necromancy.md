@@ -157,7 +157,7 @@ corpse）
 
  
 
-### 封锁冥门 **SEAL THE UNDERWORLD'S GATES**
+### 封锁冥门 **SEAL THE UNDERWORLD’S GATES**
 
 死灵传承 攻击法术 4环
 

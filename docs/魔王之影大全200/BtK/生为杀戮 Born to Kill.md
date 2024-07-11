@@ -1,4 +1,4 @@
-# 生为杀戮 Born to Kill {#生为杀戮\\tborn-to-kill}
+# 生为杀戮 Born to Kill
 
 魔王的受害者
 

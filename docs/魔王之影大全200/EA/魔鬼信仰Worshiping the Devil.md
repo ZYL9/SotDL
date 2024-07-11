@@ -1,4 +1,4 @@
-# 敬奉魔鬼Worshiping the Devil {#魔鬼信仰worshiping-the-devil}
+# 敬奉魔鬼Worshiping the Devil
 
 一些凡种被黑暗所诱惑，将自己的灵魂出卖给了魔鬼。这些人可能从小就被灌输了异端思想，或是在年轻时经由亲友介绍了解到黑暗者the
 dark

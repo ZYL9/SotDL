@@ -1,4 +1,4 @@
-# 灵魂 Soul {#灵魂\\tsoul}
+# 灵魂 Soul
 
 Drold译制，UWM校对
 
@@ -13,7 +13,7 @@ Third
 
  
 
-## 克服异常 Overcome Affliction {#克服异常\\tovercome-affliction}
+## 克服异常 Overcome Affliction
 
 灵魂 实用 0环
 
@@ -26,7 +26,7 @@ Third
 
  
 
-## 回忆往功 Recall Past Success {#回忆往功\\trecall-past-success}
+## 回忆往功 Recall Past Success
 
 灵魂 实用 0环
 
@@ -40,7 +40,7 @@ Third
 
  
 
-## 否决伤痛 Neegate Harm {#否决伤痛\\tneegate-harm}
+## 否决伤痛 Neegate Harm
 
 灵魂 实用 1环
 
@@ -57,7 +57,7 @@ Third
 
  
 
-## 三眼洞开 Open the third eye {#三眼洞开\\topen-the-third-eye}
+## 三眼洞开 Open the third eye
 
 灵魂 实用 1环
 
@@ -71,7 +71,7 @@ Third
 
  
 
-## 打击灵魂 Strike the Soul {#打击灵魂\\tstrike-the-soul}
+## 打击灵魂 Strike the Soul
 
 灵魂 攻击 1环
 

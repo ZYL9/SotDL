@@ -6,28 +6,117 @@
 
 #### 个人特质表
 
-  d20   正面特质     负面特质
-  ----- ------------ ------------
-  1     慈悲         冷漠
-  2     快乐         傲慢
-  3     勇敢         自负
-  4     可靠         怯懦
-  5     果决         狡诈
-  6     忠实         冲动
-  7     通感         懒惰
-  8     公平         恶毒
-  9     宽容         令人厌烦的
-  10    和蔼         易争吵的
-  11    慷慨         粗鲁
-  12    乐于助人     尖酸
-  13    诚实         利己
-  14    可敬的       邋遢
-  15    谦逊         吝啬
-  16    理想的       阴沉
-  17    有创造力的   坏脾气的
-  18    善良         轻率
-  19    高尚         不友善
-  20    守序         粗俗
+<table>
+<thead>
+<tr class="header">
+<th>d20</th>
+<th style="TEXT-ALIGN: center">正面特质</th>
+<th style="TEXT-ALIGN: center">负面特质</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td style="TEXT-ALIGN: center">慈悲</td>
+<td style="TEXT-ALIGN: center">冷漠</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td style="TEXT-ALIGN: center">快乐</td>
+<td style="TEXT-ALIGN: center">傲慢</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td style="TEXT-ALIGN: center">勇敢</td>
+<td style="TEXT-ALIGN: center">自负</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td style="TEXT-ALIGN: center">可靠</td>
+<td style="TEXT-ALIGN: center">怯懦</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td style="TEXT-ALIGN: center">果决</td>
+<td style="TEXT-ALIGN: center">狡诈</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td style="TEXT-ALIGN: center">忠实</td>
+<td style="TEXT-ALIGN: center">冲动</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td style="TEXT-ALIGN: center">通感</td>
+<td style="TEXT-ALIGN: center">懒惰</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td style="TEXT-ALIGN: center">公平</td>
+<td style="TEXT-ALIGN: center">恶毒</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td style="TEXT-ALIGN: center">宽容</td>
+<td style="TEXT-ALIGN: center">令人厌烦的</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td style="TEXT-ALIGN: center">和蔼</td>
+<td style="TEXT-ALIGN: center">易争吵的</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td style="TEXT-ALIGN: center">慷慨</td>
+<td style="TEXT-ALIGN: center">粗鲁</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td style="TEXT-ALIGN: center">乐于助人</td>
+<td style="TEXT-ALIGN: center">尖酸</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td style="TEXT-ALIGN: center">诚实</td>
+<td style="TEXT-ALIGN: center">利己</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td style="TEXT-ALIGN: center">可敬的</td>
+<td style="TEXT-ALIGN: center">邋遢</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td style="TEXT-ALIGN: center">谦逊</td>
+<td style="TEXT-ALIGN: center">吝啬</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td style="TEXT-ALIGN: center">理想的</td>
+<td style="TEXT-ALIGN: center">阴沉</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td style="TEXT-ALIGN: center">有创造力的</td>
+<td style="TEXT-ALIGN: center">坏脾气的</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td style="TEXT-ALIGN: center">善良</td>
+<td style="TEXT-ALIGN: center">轻率</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td style="TEXT-ALIGN: center">高尚</td>
+<td style="TEXT-ALIGN: center">不友善</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td style="TEXT-ALIGN: center">守序</td>
+<td style="TEXT-ALIGN: center">粗俗</td>
+</tr>
+</tbody>
+</table>
 
 ### 扮演问题
 
@@ -61,7 +150,7 @@
 
 说出一件你最珍视的东西。再说一件你不在乎失去的东西。你看重或不看重的东西可以是某种概念，如爱、荣誉、慈善、与他人(如朋友和家人)的联系，也可以是实际的东西，如珍贵的武器、传家宝或爱的象征。
 
-想想你最珍视的东西，什么使它对你很重要?为了得到它，你会付出多大的努力?对于你最不看重的东西...为什么这对你不重要?你会轻易放弃吗
+想想你最珍视的东西，什么使它对你很重要?为了得到它，你会付出多大的努力?对于你最不看重的东西…为什么这对你不重要?你会轻易放弃吗
 
 #### 恐惧和厌恶
 
@@ -137,18 +226,56 @@
 
 ### 团队等级表
 
-  等级   描述
-  ------ -------------------------------------------------------
-  1      从第3章选择一条入门道途，并且获得该道途对应等级的效益
-  2      获得你所属入门道途对应等级的效益
-  3      从第4章选择一条专家道途，并且获得该道途对应等级的效益
-  4      获得你种族在对应等级的效益
-  5      获得你所属入门道途对应等级的效益
-  6      获得你所属专家道途对应等级的效益
-  7      从第5章选择一条大师道途，并且获得该道途对应等级的效益
-  8      获得你所属入门道途对应等级的效益
-  9      获得你所属专家道途对应等级的效益
-  10     获得你所属大师道途对应等级的效益
+<table>
+<thead>
+<tr class="header">
+<th>等级</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>从第3章选择一条入门道途，并且获得该道途对应等级的效益</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>获得你所属入门道途对应等级的效益</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>从第4章选择一条专家道途，并且获得该道途对应等级的效益</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>获得你种族在对应等级的效益</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>获得你所属入门道途对应等级的效益</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>获得你所属专家道途对应等级的效益</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>从第5章选择一条大师道途，并且获得该道途对应等级的效益</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>获得你所属入门道途对应等级的效益</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>获得你所属专家道途对应等级的效益</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>获得你所属大师道途对应等级的效益</td>
+</tr>
+</tbody>
+</table>
 
 ## 以高等级开始游戏
 

@@ -4,13 +4,42 @@
 
 机关人附件表Clockwork Attachments
 
-  附件         价格   稀有度
-  ------------ ------ --------
-  螺旋弹簧     1gc    罕见U
-  冲击吸收层   1gc    稀有R
-  内置收发机   15gc   珍奇E
-  乘客隔舱     10gc   稀有R
-  伸缩刃       2gc    罕见U
+<table>
+<thead>
+<tr class="header">
+<th>附件</th>
+<th>价格</th>
+<th>稀有度</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>螺旋弹簧</td>
+<td>1gc</td>
+<td>罕见U</td>
+</tr>
+<tr class="even">
+<td>冲击吸收层</td>
+<td>1gc</td>
+<td>稀有R</td>
+</tr>
+<tr class="odd">
+<td>内置收发机</td>
+<td>15gc</td>
+<td>珍奇E</td>
+</tr>
+<tr class="even">
+<td>乘客隔舱</td>
+<td>10gc</td>
+<td>稀有R</td>
+</tr>
+<tr class="odd">
+<td>伸缩刃</td>
+<td>2gc</td>
+<td>罕见U</td>
+</tr>
+</tbody>
+</table>
 
 螺旋弹簧Coiled
 Springs：装有这种弹簧的机关人可以跳跃三倍于通常距离远。每当使用了该组件，机关人必须保持专注1分钟，才能重新校正这个机构。
@@ -35,12 +64,41 @@ Blades：一旦将其装入手部，机关人可以在它的回合使用一个�
 
 躯体构成表Body Composition
 
-  3d6     构成材料
-  ------- ----------------
-  3       魔法防腐的尸肉
-  4-5     木头和骨头
-  6-8     铁
-  9-12    铜和黄铜
-  13-15   青铜
-  16-17   硬化帆布
-  18      炼金玻璃
+<table>
+<thead>
+<tr class="header">
+<th>3d6</th>
+<th>构成材料</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>3</td>
+<td>魔法防腐的尸肉</td>
+</tr>
+<tr class="even">
+<td>4-5</td>
+<td>木头和骨头</td>
+</tr>
+<tr class="odd">
+<td>6-8</td>
+<td>铁</td>
+</tr>
+<tr class="even">
+<td>9-12</td>
+<td>铜和黄铜</td>
+</tr>
+<tr class="odd">
+<td>13-15</td>
+<td>青铜</td>
+</tr>
+<tr class="even">
+<td>16-17</td>
+<td>硬化帆布</td>
+</tr>
+<tr class="odd">
+<td>18</td>
+<td>炼金玻璃</td>
+</tr>
+</tbody>
+</table>

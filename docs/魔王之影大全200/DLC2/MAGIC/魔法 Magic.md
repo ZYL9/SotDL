@@ -20,16 +20,33 @@
 
 灵魂传承挖掘出所有存在于灵魂中的魔法力量，使用者通过挖掘灵魂中的神圣(或邪魔)本质来超越他们肉体的极限
 
-## 后效 Aftereffect {#后效\\taftereffect}
+## 后效 Aftereffect
 
 某些法术拥有后效，会在法术结束后立刻产生作用，不管该效应如何产生。
 
 ## 传承关联属性
 
-  智力              意志
-  ----------------- ------------
-  祈唤 invocation   金属 metal
-                    秩序 order
-                    灵魂 soul
+<table>
+<thead>
+<tr class="header">
+<th style="TEXT-ALIGN: center">智力</th>
+<th style="TEXT-ALIGN: center">意志</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">祈唤 invocation</td>
+<td style="TEXT-ALIGN: center">金属 metal</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center"> </td>
+<td style="TEXT-ALIGN: center">秩序 order</td>
+</tr>
+<tr class="odd">
+<td style="TEXT-ALIGN: center"> </td>
+<td style="TEXT-ALIGN: center">灵魂 soul</td>
+</tr>
+</tbody>
+</table>
 
  

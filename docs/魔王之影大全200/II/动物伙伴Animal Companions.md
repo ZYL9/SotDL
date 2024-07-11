@@ -4,22 +4,87 @@
 
 **动物伙伴表**
 
-  动物          价格      属性
-  ------------- --------- ----------------
-  黑熊          4金冠币   大型动物
-  蝙蝠          1铜便士   微型动物，飞行
-  猫            5铜便士   微型动物
-  水豚          1银先令   小型动物
-  雪貂/白鼬     3铜便士   微型动物
-  巨蛾          2铜便士   微型动物，飞行
-  巨蛛          1银先令   小型动物，有毒
-  长臂猿        1银先令   小型动物
-  骆驼/大羊驼   2金冠币   等同马
-  水獭          4铜便士   小型动物，游泳
-  牛            1银先令   大型动物
-  鸽子          5铜便士   微型动物，飞行
-  豪猪          2铜便士   微型动物
-  响尾蛇        2铜便士   微型动物，有毒
+<table>
+<thead>
+<tr class="header">
+<th>动物</th>
+<th>价格</th>
+<th>属性</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>黑熊</td>
+<td>4金冠币</td>
+<td>大型动物</td>
+</tr>
+<tr class="even">
+<td>蝙蝠</td>
+<td>1铜便士</td>
+<td>微型动物，飞行</td>
+</tr>
+<tr class="odd">
+<td>猫</td>
+<td>5铜便士</td>
+<td>微型动物</td>
+</tr>
+<tr class="even">
+<td>水豚</td>
+<td>1银先令</td>
+<td>小型动物</td>
+</tr>
+<tr class="odd">
+<td>雪貂/白鼬</td>
+<td>3铜便士</td>
+<td>微型动物</td>
+</tr>
+<tr class="even">
+<td>巨蛾</td>
+<td>2铜便士</td>
+<td>微型动物，飞行</td>
+</tr>
+<tr class="odd">
+<td>巨蛛</td>
+<td>1银先令</td>
+<td>小型动物，有毒</td>
+</tr>
+<tr class="even">
+<td>长臂猿</td>
+<td>1银先令</td>
+<td>小型动物</td>
+</tr>
+<tr class="odd">
+<td>骆驼/大羊驼</td>
+<td>2金冠币</td>
+<td>等同马</td>
+</tr>
+<tr class="even">
+<td>水獭</td>
+<td>4铜便士</td>
+<td>小型动物，游泳</td>
+</tr>
+<tr class="odd">
+<td>牛</td>
+<td>1银先令</td>
+<td>大型动物</td>
+</tr>
+<tr class="even">
+<td>鸽子</td>
+<td>5铜便士</td>
+<td>微型动物，飞行</td>
+</tr>
+<tr class="odd">
+<td>豪猪</td>
+<td>2铜便士</td>
+<td>微型动物</td>
+</tr>
+<tr class="even">
+<td>响尾蛇</td>
+<td>2铜便士</td>
+<td>微型动物，有毒</td>
+</tr>
+</tbody>
+</table>
 
 **动物装备Animal Gear**
 
@@ -27,14 +92,59 @@
 
 动物装备表
 
-  物品         价格      稀有度
-  ------------ --------- --------
-  动物弹药袋   1金冠币   R
-  动物口粮     4碎子     C
-  项圈         1铜便士   C
-  皮带         1铜便士   C
-  传信管       3银先令   C
-  背囊，巨型   1金冠币   U
-  背囊，大型   6银先令   C
-  背囊，小型   3银先令   C
-  背囊，微型   5铜便士   C
+<table>
+<thead>
+<tr class="header">
+<th>物品</th>
+<th>价格</th>
+<th>稀有度</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>动物弹药袋</td>
+<td>1金冠币</td>
+<td>R</td>
+</tr>
+<tr class="even">
+<td>动物口粮</td>
+<td>4碎子</td>
+<td>C</td>
+</tr>
+<tr class="odd">
+<td>项圈</td>
+<td>1铜便士</td>
+<td>C</td>
+</tr>
+<tr class="even">
+<td>皮带</td>
+<td>1铜便士</td>
+<td>C</td>
+</tr>
+<tr class="odd">
+<td>传信管</td>
+<td>3银先令</td>
+<td>C</td>
+</tr>
+<tr class="even">
+<td>背囊，巨型</td>
+<td>1金冠币</td>
+<td>U</td>
+</tr>
+<tr class="odd">
+<td>背囊，大型</td>
+<td>6银先令</td>
+<td>C</td>
+</tr>
+<tr class="even">
+<td>背囊，小型</td>
+<td>3银先令</td>
+<td>C</td>
+</tr>
+<tr class="odd">
+<td>背囊，微型</td>
+<td>5铜便士</td>
+<td>C</td>
+</tr>
+</tbody>
+</table>

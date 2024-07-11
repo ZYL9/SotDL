@@ -6,14 +6,40 @@
 
 ## 随机到固定伤害
 
-   随即伤害   固定伤害
-  ---------- ----------
-     1d3         2
-     2d3         4
-     1d6         3
-     2d6         7
-     +1d6        +3
-     +2d6        +7
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">随即伤害</th>
+<th style="text-align: center;">固定伤害</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1d3</td>
+<td style="text-align: center;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2d3</td>
+<td style="text-align: center;">4</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">1d6</td>
+<td style="text-align: center;">3</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2d6</td>
+<td style="text-align: center;">7</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">+1d6</td>
+<td style="text-align: center;">+3</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">+2d6</td>
+<td style="text-align: center;">+7</td>
+</tr>
+</tbody>
+</table>
 
  
 

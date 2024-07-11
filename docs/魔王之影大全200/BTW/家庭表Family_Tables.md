@@ -1,109 +1,442 @@
-# [家庭表]{style="FONT-SIZE: 11pt; mso-bidi-font-family: Arial; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial"}[Family Tables]{lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: \"Arial\",sans-serif"}
+# 家庭表Family Tables
 
-[ ]{lang="EN-US"
-style="FONT-SIZE: 11pt; FONT-FAMILY: \"Arial\",sans-serif"}
+使用以下表格来丰富你的家庭关系、情况、兄弟姐妹和他们的遭遇。除非另有说明，为每个以下表格进行掷骰。
 
-[使用以下表格来丰富你的家庭关系、情况、兄弟姐妹和他们的遭遇。除非另有说明，为每个以下表格进行掷[骰]{.GramE}。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}
+## 家庭情况表Family Circumstances
 
-## [家庭情况表Family Circumstances]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
+<table class="MsoTableGrid"
+style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: none; mso-border-insidev: none"
+data-cellspacing="0" data-cellpadding="0" data-border="0">
+<tbody>
+<tr class="odd" style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>3d6</strong></p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>情况</strong> <strong></strong></p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 1">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>3或更低 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>你是孤儿，或是对家庭完全没有了记忆。你的童年掷骰-6
+，并跳过家庭关系掷骰。 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 2">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>4-5 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>你的家庭一贫如洗。你在童年表的掷骰结果- 3
+。</p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 3">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>6-8</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>你的家庭很贫穷。你在童年表的掷骰的结果-1 。
+</p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 4">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>9-12 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>你的家庭只能勉强度日。 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 5">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>13-15 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p> 你的家庭生活舒适。你在童年表的掷骰结果+
+1。</p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 6">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>16-17</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>你的家庭很富有。你在童年表的掷骰结果+ 3 。</p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 7; mso-yfti-lastrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>18</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>你的家庭家财万贯。你在童年表的掷骰结果+ 6 。
+</p></td>
+</tr>
+</tbody>
+</table>
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **[3d6]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}**                                                                                                                                                                                                                   **[情况]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}**[ **[]{lang="EN-US"}**]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [3]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}[或更低]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}   [你是孤儿，或是对家庭完全没有了记忆。你的童年掷[骰]{.GramE}-]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[6 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}[，并跳过家庭关系掷[骰]{.GramE}。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [4-5 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                      [你的家庭一贫如洗。你在童年表的掷]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[[骰]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}]{.GramE}[结果-]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ [3 ]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}[。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [6-8]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                       [你的家庭很贫穷。你在童年表的掷]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[[骰]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}]{.GramE}[的结果-]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[1 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}[。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [9-12 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                     [你的家庭只能勉强度日。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [13-15 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                    [ 你的家庭生活舒适。你在童年表的掷骰结果+ ]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""} [[1]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}[。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[]{lang="EN-US" roman?,serif??="" new="" times=""}
-  [16-17]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                     [你的家庭很富有。你在童年表的掷]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[]{style="FONT-FAMILY: 
-                                                                                                                                                                                                                                                                                           \"Times New Roman\",serif"}[[骰]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}]{.GramE}[结果+]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ [3 ]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}[。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [18]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                        [你的家庭家财万贯。你在童年表的掷[骰]{.GramE}结果+]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ [6 ]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}[。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 兄弟姐妹表  Siblings\* 
 
-## [兄弟姐妹表]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ [ Siblings\* ]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
+<table class="MsoTableGrid"
+style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: none; mso-border-insidev: none"
+data-cellspacing="0" data-cellpadding="0" data-border="0">
+<tbody>
+<tr class="odd" style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>3d6 </strong></p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>兄弟姐妹的数量 </strong></p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 1">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>5 或更低 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>没有 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 2">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>6-8 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>1</p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 3">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>9-12 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>1d3 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 4">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>13-15 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>1d6 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 5">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>16-17 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>1d6+2 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 6; mso-yfti-lastrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>18 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>2d6+2 </p></td>
+</tr>
+</tbody>
+</table>
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **[3d6 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}**                                                                                                                                                                                                                   **[兄弟姐妹的数量]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}**
-  [5 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}[或更低]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}   [没有]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [6-8 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                       [1]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [9-12 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                      [1d3 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [13-15 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                     [1d6 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [16-17 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                     [1d6+2 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [18 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                                                                                                                                                                        [2d6+2 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\*对每位兄弟姐妹，掷出一个 d6 。结果为奇数则为兄弟，为偶数则为姐妹。
 
-[\*]{lang="EN-US"
-style="FONT-FAMILY: \"Times New Roman\",serif"}[对每位兄弟姐妹，掷出一个]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[
-[d6
-]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}[。结果为奇数则为兄弟，为偶数则为姐妹。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[
-[]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
+## 兄弟姐妹年龄表 Sibling Ages\* 
 
-## [兄弟姐妹年龄表]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ [Sibling Ages\* ]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
+<table class="MsoTableGrid"
+style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: none; mso-border-insidev: none"
+data-cellspacing="0" data-cellpadding="0" data-border="0">
+<tbody>
+<tr class="odd" style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>d20</strong> <strong></strong></p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>兄弟姐妹年龄 </strong></p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 1">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>1-3</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>与你年龄相仿。该兄弟姐妹有可能是双胞胎、私生子、或是养子。</p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 2">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>4-12 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>年幼 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 3; mso-yfti-lastrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>13-20 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>年长 </p></td>
+</tr>
+</tbody>
+</table>
 
-  ---------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **[d20]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}**[ ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}   **[兄弟姐妹年龄]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}**
-  [1-3]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                       [与你年龄相仿。该兄弟姐妹有可能是双胞胎、私生子、或是养子。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [4-12 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                     [年幼]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [13-20 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}                                                                    [年长]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  ---------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\*你每有一位兄弟姐妹就为其进行一次掷骰。
 
-[\*]{lang="EN-US"
-style="FONT-FAMILY: \"Times New Roman\",serif"}[你每有一位兄弟姐妹就为其进行一次掷[骰]{.GramE}。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[
-[]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
+## 家庭关系表 Familial Relationships\*
 
-## [家庭关系表]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ [Familial Relationships\*]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
+<table class="MsoTableGrid"
+style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: none; mso-border-insidev: none"
+data-cellspacing="0" data-cellpadding="0" data-border="0">
+<tbody>
+<tr class="odd" style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>3d6 </strong></p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>关系 </strong></p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 1">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>3 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>厌恶 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 2">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>4</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>敌视 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 3">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>5-6</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>较劲 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 4">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>7-8</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>讨厌 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 5">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>9-10 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>不好不坏，或是再无关联 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 6">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>11-12</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>宽容</p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 7">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>13-14</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>友善</p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 8">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>15-16 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>友谊 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 9">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>17 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>关爱</p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 10; mso-yfti-lastrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>18 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>强烈的爱，大概非常浪漫 </p></td>
+</tr>
+</tbody>
+</table>
 
-  ------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **[3d6 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}**   **[关系]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}**
-  [3 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}         [厌恶]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [4]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}          [敌视]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [5-6]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}        [较劲]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [7-8]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}        [讨厌]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [9-10 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}      [不好不坏，或是再无关联]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [11-12]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}      [宽容]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [13-14]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}      [友善]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [15-16 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}     [友谊]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [17 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}        [关爱]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [18 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}        [强烈的爱，大概非常浪漫]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  ------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\*为每位父母和兄弟姐妹都进行一次此表的掷骰 ，以此决定你与该角色的关系。
 
-[\*]{lang="EN-US"
-style="FONT-FAMILY: \"Times New Roman\",serif"}[为每位父母和兄弟姐妹都进行一次此表的掷]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[[骰]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}]{.GramE}[
-]{style="FONT-FAMILY: \"Times New Roman\",serif"}[，以此决定你与该角色的关系。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[
-[]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
+## 家人命运表Family Fates\*
 
-## [家人命运表]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[Family Fates\*]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}[]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}
+<table class="MsoTableGrid"
+style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: none; mso-border-insidev: none"
+data-cellspacing="0" data-cellpadding="0" data-border="0">
+<tbody>
+<tr class="odd" style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>3d6 </strong></p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>命运 </strong></p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 1">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>3 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>发疯了 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 2">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>4-5 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>不知所踪 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 3">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>6-8</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>死亡 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 4">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>9-12 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>存活 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 5">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>13-15 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>存活，但命途多舛 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 6">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>16-17 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>存活，且广受好评 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 7; mso-yfti-lastrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>18 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>存活，且声名远扬 </p></td>
+</tr>
+</tbody>
+</table>
 
-  ------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **[3d6 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}**   **[命运]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}**
-  [3 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}         [发疯了]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [4-5 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}       [不知所[踪]{.GramE}]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [6-8]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}        [死亡]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [9-12 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}      [存活]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [13-15 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}     [存活，但命途多舛]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [16-17 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}     [存活，且广受好评]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [18 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}        [存活，且声名远扬]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  ------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\* 为每位父母和兄弟姐妹都进行一次掷骰
+。如果该家庭成员已死亡，掷骰**死因表**以查明原因。
 
-[\* ]{lang="EN-US"
-style="FONT-FAMILY: \"Times New Roman\",serif"}[为每位父母和兄弟姐妹都进行一次掷]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[[骰]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}]{.GramE}[
-]{style="FONT-FAMILY: \"Times New Roman\",serif"}[。如果该家庭成员已死亡，掷]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[[骰]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}]{.GramE}**[死因表]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}**[以查明原因。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[
-[]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
+##   死因表 Cause of Death 
 
-## [[  ]{style="mso-spacerun: yes"}]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}[死因表]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ [Cause of Death ]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
+<table class="MsoTableGrid"
+style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: none; mso-border-insidev: none"
+data-cellspacing="0" data-cellpadding="0" data-border="0">
+<tbody>
+<tr class="odd" style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>3d6</strong></p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p><strong>死因 </strong></p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 1">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>3</p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>谋杀 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 2">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>4-5 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>与专业无关的意外事故 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 3">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>6-8 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>困顿、饥饿、或是暴露 <strong>*</strong> </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 4">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>9-12 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>自然原因或疾病 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 5">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>13-15 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>战争 </p></td>
+</tr>
+<tr class="odd" style="mso-yfti-irow: 6">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>16-17 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>与专业相关的意外事故 </p></td>
+</tr>
+<tr class="even" style="mso-yfti-irow: 7; mso-yfti-lastrow: yes">
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>18 </p></td>
+<td
+style="PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt"
+data-valign="top"><p>自杀 </p></td>
+</tr>
+</tbody>
+</table>
 
-  ------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **[3d6]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}**   **[死因]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}**
-  [3]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}         [谋杀]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [4-5 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}      [与专业无关的意外事故]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [6-8 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}      [困顿、饥饿、或是暴露]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ **[\*]{lang="EN-US"}**[ ]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [9-12 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}     [自然原因或疾病]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [13-15 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}    [战争]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [16-17 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}    [与专业相关的意外事故]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  [18 ]{lang="EN-US" style="FONT-FAMILY: \"Times New Roman\",serif"}       [自杀]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[ []{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}
-  ------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**[\* ]{lang="EN-US"
-style="FONT-FAMILY: \"Times New Roman\",serif"}**[译注：指暴露在极热或极冷中。大全详见核心书]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[C9-]{lang="EN-US"
-style="FONT-FAMILY: \"Times New Roman\",serif"}[游戏运行]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}[
-[-GM
-]{lang="EN-US"}]{style="FONT-FAMILY: \"Times New Roman\",serif"}[的工具箱。]{style="mso-bidi-font-family: \"Times New Roman\"; mso-ascii-font-family: \"Times New Roman\"; mso-hansi-font-family: \"Times New Roman\""}
+**\* **译注：指暴露在极热或极冷中。大全详见核心书C9-游戏运行 -GM
+的工具箱。

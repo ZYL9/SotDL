@@ -16,11 +16,40 @@
 
 #### 运动速度表
 
-  时间   谨慎    步行     慢跑     狂奔
-  ------ ------- -------- -------- --------
-  分钟   30码    90码     120码    240码
-  小时   1英里   3英里    4英里    8英里
-  天     8英里   24英里   32英里   ------
+<table>
+<thead>
+<tr class="header">
+<th>时间</th>
+<th>谨慎</th>
+<th>步行</th>
+<th>慢跑</th>
+<th>狂奔</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>分钟</td>
+<td>30码</td>
+<td>90码</td>
+<td>120码</td>
+<td>240码</td>
+</tr>
+<tr class="even">
+<td>小时</td>
+<td>1英里</td>
+<td>3英里</td>
+<td>4英里</td>
+<td>8英里</td>
+</tr>
+<tr class="odd">
+<td>天</td>
+<td>8英里</td>
+<td>24英里</td>
+<td>32英里</td>
+<td>——</td>
+</tr>
+</tbody>
+</table>
 
 谨慎
 **Cautious**：你安静且警惕的进行移动。当你以谨慎的方式来移动，你进行的所有感知掷骰都有1点优势
@@ -57,7 +86,7 @@
 
 ##### 朝向危险 Moving into Peril
 
-如果被迫向某种危险境况移动，例如悬崖的边缘或走进火墙，该生物可以进行一次敏捷检定掷骰。若成功，该生物会故意在进入险境前倒地---例如，刚好在悬崖边缘摔倒---而后将不再因原本使其移动的效应而继续移动。
+如果被迫向某种危险境况移动，例如悬崖的边缘或走进火墙，该生物可以进行一次敏捷检定掷骰。若成功，该生物会故意在进入险境前倒地—例如，刚好在悬崖边缘摔倒—而后将不再因原本使其移动的效应而继续移动。
 
 #### 挤过生物 Movement through Creatures
 
@@ -77,19 +106,72 @@
 
 ###### 坠落伤害表 Falling Damage
 
-  坠落距离   刚性地面   液体表面
-  ---------- ---------- ----------
-  4-         \-         \-
-  5-9        2d6        1d6
-  10-14      4d6        2d6
-  15-19      6d6        3d6
-  20-24      8d6        4d6
-  25-29      10d6       5d6
-  30-34      12d6       6d6
-  35-39      14d6       7d6
-  40-44      16d6       8d6
-  45-49      18d6       9d6
-  50+        20d6       10d6
+<table>
+<thead>
+<tr class="header">
+<th style="TEXT-ALIGN: center">坠落距离</th>
+<th style="TEXT-ALIGN: center">刚性地面</th>
+<th style="TEXT-ALIGN: center">液体表面</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">4-</td>
+<td style="TEXT-ALIGN: center">-</td>
+<td style="TEXT-ALIGN: center">-</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center">5-9</td>
+<td style="TEXT-ALIGN: center">2d6</td>
+<td style="TEXT-ALIGN: center">1d6</td>
+</tr>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">10-14</td>
+<td style="TEXT-ALIGN: center">4d6</td>
+<td style="TEXT-ALIGN: center">2d6</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center">15-19</td>
+<td style="TEXT-ALIGN: center">6d6</td>
+<td style="TEXT-ALIGN: center">3d6</td>
+</tr>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">20-24</td>
+<td style="TEXT-ALIGN: center">8d6</td>
+<td style="TEXT-ALIGN: center">4d6</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center">25-29</td>
+<td style="TEXT-ALIGN: center">10d6</td>
+<td style="TEXT-ALIGN: center">5d6</td>
+</tr>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">30-34</td>
+<td style="TEXT-ALIGN: center">12d6</td>
+<td style="TEXT-ALIGN: center">6d6</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center">35-39</td>
+<td style="TEXT-ALIGN: center">14d6</td>
+<td style="TEXT-ALIGN: center">7d6</td>
+</tr>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">40-44</td>
+<td style="TEXT-ALIGN: center">16d6</td>
+<td style="TEXT-ALIGN: center">8d6</td>
+</tr>
+<tr class="even">
+<td style="TEXT-ALIGN: center">45-49</td>
+<td style="TEXT-ALIGN: center">18d6</td>
+<td style="TEXT-ALIGN: center">9d6</td>
+</tr>
+<tr class="odd">
+<td style="TEXT-ALIGN: center">50+</td>
+<td style="TEXT-ALIGN: center">20d6</td>
+<td style="TEXT-ALIGN: center">10d6</td>
+</tr>
+</tbody>
+</table>
 
 ###### 坠落倒地 Land Prone
 

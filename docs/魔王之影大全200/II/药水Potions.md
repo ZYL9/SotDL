@@ -4,16 +4,49 @@
 
 **药水表**
 
-  道具                   价格      稀有度
-  ---------------------- --------- --------
-  菲兹勒维格的狂暴配方   5银先令   R
-  冰霜抗性               5银先令   C
-  灰瓶                   1银先令   U
-  缄默汁                 1银先令   U
-  银舌                   1金冠币   R
-  胃粘膜                 2银先令   U
+<table>
+<thead>
+<tr class="header">
+<th>道具</th>
+<th>价格</th>
+<th>稀有度</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>菲兹勒维格的狂暴配方</td>
+<td>5银先令</td>
+<td>R</td>
+</tr>
+<tr class="even">
+<td>冰霜抗性</td>
+<td>5银先令</td>
+<td>C</td>
+</tr>
+<tr class="odd">
+<td>灰瓶</td>
+<td>1银先令</td>
+<td>U</td>
+</tr>
+<tr class="even">
+<td>缄默汁</td>
+<td>1银先令</td>
+<td>U</td>
+</tr>
+<tr class="odd">
+<td>银舌</td>
+<td>1金冠币</td>
+<td>R</td>
+</tr>
+<tr class="even">
+<td>胃粘膜</td>
+<td>2银先令</td>
+<td>U</td>
+</tr>
+</tbody>
+</table>
 
-**菲兹勒维格的狂暴配方Fizzlewig's Furious Formula：**
+**菲兹勒维格的狂暴配方Fizzlewig’s Furious Formula：**
 
 这是一种由沼泽桃金娘和麦芽酒制成的浓稠的红色调和物，能诱发出一种无法控制的暴力状态。当药水生效时，生物就会像受到狂暴Berserk天赋（见狂战士）的效应一样进入狂暴。
 
