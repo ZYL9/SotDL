@@ -56,9 +56,9 @@ provide('hero-image-slot-exists', heroImageSlotExists)
                     <slot name="nav-screen-content-after" />
                 </template>
             </VPNav>
-
-            <VPLocalNav :open="isSidebarOpen" @open-menu="openSidebar" />
-
+        </ClientOnly>
+        <VPLocalNav :open="isSidebarOpen" @open-menu="openSidebar" />
+        <ClientOnly>
             <VPSidebar :open="isSidebarOpen">
                 <template #sidebar-nav-before>
                     <slot name="sidebar-nav-before" />

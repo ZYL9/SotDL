@@ -35,12 +35,8 @@ export default withPwa(
       },
       sidebar,
     },
+    ignoreDeadLinks: true,
     metaChunk: true,
-    markdown: {
-      config: (md) => {
-        md.configure("commonmark");
-      },
-    },
     pwa: {
       includeAssets: ["favicon.ico"],
       registerType: "autoUpdate",
