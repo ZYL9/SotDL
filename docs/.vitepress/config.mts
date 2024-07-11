@@ -39,7 +39,7 @@ export default withPwa(
       includeAssets: ["favicon.ico"],
       registerType: "autoUpdate",
       workbox: {
-        globPatterns: ["**/*.{css,js,html,jpg,svg,png,webp,ico,txt,woff2}"],
+        globPatterns: ["**/*.{css,js,ico,woff2}"],
       },
       manifest: {
         name: "魔王之影",
