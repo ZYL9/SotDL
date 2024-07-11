@@ -1496,9 +1496,14 @@ function addToJson() {
     add(1452, 1444, "冒险创意Adventure Ideas", "魔王之影大全200/CoW/冒险创意Adventure_Ideas.md");
 }
 
+function patchVitePress() {
+    fs.copyFile('./patchedLayout.vue', path.join(__dirname, 'node_modules/vitepress/dist/client/theme-default/Layout.vue'))
+}
+
 function main() {
-    addToJson()
-    output()
+    // addToJson()
+    // output()
+    patchVitePress()
 }
 
 main()

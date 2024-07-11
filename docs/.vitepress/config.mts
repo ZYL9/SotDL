@@ -35,6 +35,7 @@ export default withPwa(
       },
       sidebar,
     },
+    metaChunk: true,
     pwa: {
       includeAssets: ["favicon.ico"],
       registerType: "autoUpdate",
