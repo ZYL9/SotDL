@@ -1,4 +1,4 @@
-module.exports = [
+export const sidebarData = [
   {
     "text": "关于本文件",
     "link": "魔王之影大全200/关于本文件.md",

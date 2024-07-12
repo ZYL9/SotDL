@@ -1,6 +1,11 @@
-// Create a map to store the file structure
-const path = require('path');
-const fs = require('fs-extra');
+import path from 'path';
+import fs from 'fs-extra'
+
+import { dirname } from "node:path"
+import { fileURLToPath } from "node:url"
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 let fileMap = new Map();
 let rootNodes = new Set();
