@@ -7,7 +7,7 @@ hero:
   text: ""
   tagline: Shadow of the Demon lord
   image: 
-    src: /cover.png
+    src: /cover.webp
     alt: 假装有封面
   actions:
     - theme: brand

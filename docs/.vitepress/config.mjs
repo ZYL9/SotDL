@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 import { withPwa } from "@vite-pwa/vitepress";
 import { SearchPlugin } from "vitepress-plugin-search";
 import { chunkSplitPlugin } from 'vite-plugin-chunk-split';
-
+import viteCompression from 'vite-plugin-compression';
 import { sidebarData } from "./sidebar.js";
 
 import Segment from 'segment'
@@ -11,7 +11,7 @@ var segment = new Segment();
 // 使用默认的识别模块及字典，载入字典文件需要1秒，仅初始化时执行一次即可
 segment.useDefault();
 
-var options = {
+var searchOptions = {
 
   // 采用分词器优化，
   encode: function (str) {
@@ -31,11 +31,19 @@ var options = {
   // }
 };
 
+var compressOptions = {
+  verbose: true,
+  disable: false,
+  threshold: 1024,
+  algorithm: "brotliCompress",
+  ext: ".br",
+}
+
 // https://vitepress.dev/reference/site-config
 export default withPwa(
   defineConfig({
     title: "魔王之影",
-    head: [["link", { rel: "icon", href: "favicon.ico" }]],
+    head: [["link", { rel: "icon", href: "/favicon.ico" }]],
     description: "Shadow of the Demon lord",
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
@@ -69,8 +77,9 @@ export default withPwa(
     lang: "zh-cn",
     vite: {
       plugins: [
-        SearchPlugin(options),
-        chunkSplitPlugin()
+        SearchPlugin(searchOptions),
+        chunkSplitPlugin(),
+        viteCompression(compressOptions)
       ],
     },
     pwa: {
